@@ -94,7 +94,7 @@ en: &DEFAULT_EN
     people:
       - name: "Maria Marques"
         role: "Cordenadora de marketing e mídia, atendimento ao cliente e financeiro"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -114,7 +114,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Elias Mendes Costa"
         role: "Coordenação, estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -125,7 +125,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contato"
-    text: "**Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789**"
+    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789"
     section: contact
     name: "Nome*"
     name-validation: "Por favor preencha seu nome."
@@ -144,7 +144,7 @@ en: &DEFAULT_EN
     body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
     section: about
     
-  about:
+  about2:
     title: "Sobre2"
     text: "Um pouco da nossa história"
     body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
