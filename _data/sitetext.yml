@@ -68,12 +68,6 @@ en: &DEFAULT_EN
         align: right
     end: "Seja parte <br> da nossa <br> história!"
 
-  about:
-    title: "Sobre"
-    text: "Um pouco da nossa história"
-    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
-    section: about
-
   clients:
     section: clients
     max-height: 100px
@@ -143,6 +137,12 @@ en: &DEFAULT_EN
     message-validation: "Por favor escreva a mensagem."
     subject: "Contact Form Submission"
     submit: "Enviar"
+    
+  about:
+    title: "Sobre"
+    text: "Um pouco da nossa história"
+    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
+    section: about
 
   footer:
     legal: "Privacy Policy"
