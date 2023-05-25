@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Linha do tempo"
       section: timeline
-    - title: "Time Data Situ"
+    - title: "Equipe"
       section: team
     - title: "Contato"
       section: contact
