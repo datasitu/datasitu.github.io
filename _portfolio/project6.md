@@ -1,15 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
+title: Identificação de vulnerabilidade do solo
+subtitle: Trabalho realizado em região de montanha
+image: assets/img/portfolio/vulnerability_Ross.png
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Identificação de vulnerabilidade do solo
+  subtitle: Região de montanha
+  thumbnail: assets/img/portfolio/vulnerability_Ross.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Neste projeto foi avaliado as áreas mia sucetiveis a problemas de erosão e perda de fertilidade natural.
 
 {:.list-inline}
 - Date: October 2019
