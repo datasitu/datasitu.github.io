@@ -93,7 +93,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Time Data Situ"
+    title: "Equipe"
     text: "Veja as nossas qualificaçãoes e carreira acadêmica"
     subtext: Somos doutores em Solos e Meio Ambiente formados na Universidade Federal Rural do Rio de Janeiro
     section: team
@@ -146,6 +146,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
+    text: "Endereço: hshshs. CNPJ 73777737366363"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
