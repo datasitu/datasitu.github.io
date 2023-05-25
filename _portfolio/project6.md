@@ -12,7 +12,7 @@ caption:
 Neste projeto foi avaliado as áreas mia sucetiveis a problemas de erosão e perda de fertilidade natural.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: Outubro de 2019
+- Client: UFRRJ
+- Category: Mapeamento digital de solos
 
