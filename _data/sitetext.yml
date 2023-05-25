@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "Sobre"
-    text: "nossa história"
-    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos"
+    text: "Um pouco da nossa história"
+    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
     section: about
 
   clients:
@@ -93,7 +93,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Conheça o time Data Situ"
+    title: "Time Data Situ"
     text: "Vaja as nossas qualificaçãoes e carreira acadêmica"
     subtext: Somos doutores em Solos e Meio Ambiente formados na Universidade Federal Rural do Rio de Janeiro
     section: time
