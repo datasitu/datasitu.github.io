@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Aumente a sua produtividade no campo!
-    text: è uma stisfação atender você
+    text: è uma satisfação atender você
     button: Veja mais
     buttonlink: "#services"
 
@@ -94,7 +94,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Time Data Situ"
-    text: "Vaja as nossas qualificaçãoes e carreira acadêmica"
+    text: "Veja as nossas qualificaçãoes e carreira acadêmica"
     subtext: Somos doutores em Solos e Meio Ambiente formados na Universidade Federal Rural do Rio de Janeiro
     section: team
     people:
