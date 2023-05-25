@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: Aumente a sua produtividade no campo!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    text: è uma stisfação atender você
+    button: Veja mais
     buttonlink: "#services"
 
   services:
