@@ -129,10 +129,10 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contato"
-    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789"
-    section: contact
+  #contact:
+    #title: "Contato"
+    #text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789"
+    #section: contact
     #name: "Nome*"
     #name-validation: "Por favor preencha seu nome."
     #email: "Email*"
