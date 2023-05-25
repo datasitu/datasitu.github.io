@@ -143,11 +143,16 @@ en: &DEFAULT_EN
     text: "Um pouco da nossa história"
     body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
     section: about
+    
+  about:
+    title: "Sobre2"
+    text: "Um pouco da nossa história"
+    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
+    section: about2
 
   footer:
     legal: "Privacy Policy"
     text: "Endereço: hshshs. CNPJ 73777737366363"
-    subtext: Somos doutores em Solos e Meio Ambiente formados na Universidade Federal Rural do Rio de Janeiro
     desc: "Ravi Riley converted Agency"
     body: "Viemos da academia"
     social:
