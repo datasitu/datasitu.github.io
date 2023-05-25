@@ -68,6 +68,12 @@ en: &DEFAULT_EN
         align: right
     end: "Seja parte <br> da nossa <br> história!"
 
+  about:
+    title: "Sobre"
+    text: "Um pouco da nossa história"
+    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
+    section: about
+
   clients:
     section: clients
     max-height: 100px
@@ -127,34 +133,19 @@ en: &DEFAULT_EN
     title: "Contato"
     text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789"
     section: contact
-    name: "Nome*"
-    name-validation: "Por favor preencha seu nome."
-    email: "Email*"
-    email-validation: "Por favor preencha seu endereço de email."
-    phone: "Número de telefone"
-    phone-validation: "Por favor preencha seu nome número de telefone."
-    message: "Mensagem*"
-    message-validation: "Por favor escreva a mensagem."
-    subject: "Contact Form Submission"
-    submit: "Enviar"
+    #name: "Nome*"
+    #name-validation: "Por favor preencha seu nome."
+    #email: "Email*"
+    #email-validation: "Por favor preencha seu endereço de email."
+    #phone: "Número de telefone"
+    #phone-validation: "Por favor preencha seu nome número de telefone."
+    #message: "Mensagem*"
+    #message-validation: "Por favor escreva a mensagem."
+    #subject: "Contact Form Submission"
+    #submit: "Enviar"
     
-  about:
-    title: "Sobre"
-    text: "Um pouco da nossa história"
-    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
-    section: about
-    
-  about2:
-    title: "Sobre2"
-    text: "Um pouco da nossa história"
-    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos."
-    section: about2
-
   footer:
     legal: "Privacy Policy"
-    text: "Endereço: hshshs. CNPJ 73777737366363"
-    desc: "Ravi Riley converted Agency"
-    body: "Viemos da academia"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
