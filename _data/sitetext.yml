@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Maria Marques"
-        role: "Cordenadora de marketing e mídia, atendimento ao cliente e financeiro, ver <a href="https://gelsleichter.github.io/port_resume/">curriculo</a>"
+        role: "Cordenadora de marketing e mídia, atendimento ao cliente e financeiro"
         image: assets/img/team/Maria.jpeg
         social:
           - url: https://twitter.com
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Yuri Gelsleichter"
-        role: "Coordenação, sensoriameno remoto, automação, mapeamento de solos e engenharia de dados, ver [curriculo](https://gelsleichter.github.io/port_resume/)"
+        role: "Coordenação, sensoriameno remoto, automação, mapeamento de solos e engenharia de dados"
         image: assets/img/team/Yuri.jpeg
         social:
           - url: https://twitter.com
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fa-regular fa-file
       - name: "Elias Mendes Costa"
-        role: "Coordenação, estatítica aplicada, design experimental, mapeamento de solos e cientista de dados, ver [curriculo](https://gelsleichter.github.io/port_resume/)"
+        role: "Coordenação, estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
         image: assets/img/team/Elias.jpg
         social:
           - url: https://twitter.com
