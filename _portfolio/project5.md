@@ -1,15 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: Implementção de técnicas de avaliação da fertilidade natural do solo a seco
+subtitle: Análises espectrais
+image: assets/img/portfolio/PNI_Obs_Pred_R2_0.97.png
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Avaliação da fertilidade do solo 
+  subtitle: Fertilidade natural
+  thumbnail: assets/img/portfolio/PNI_Obs_Pred_R2_0.97.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Através de técnicas espectrais (sensores) é possível inferir a qualidade (ou saúde) do solo em poucos minutos. 
 
 {:.list-inline}
 - Date: October 2019
