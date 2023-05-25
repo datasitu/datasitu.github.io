@@ -11,35 +11,35 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Aumente a sua produtividade no campo!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "Serviços"
+    text: "Do tamanho da sua demanda"
+    section: serviços
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Monitoramento de cultura](https://fontawesome.com/icons)"
+        desc: "Identifique probemas no solo, água, adubação, pragas, etc. Executamos mensal, bi-mensal ou bi-semanal"
+        icon: fas fa-solid fa-satellite #find more at https://fontawesome.com/icons
+      - title: "Relatórios personalizados na palma da sua mão"
+        desc: "Gráficos e mapas. Corrdenadas de GPS do local afateado"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[Análises estatísticas](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Testes de amostragem, calagem para correção de pH, indicação para aplicação localizada de fertilizantes"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Estudos de caso"
+    text: "Confira um pouco da nossa experiência"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fechar e retornar"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Linha do tempo"
+    text: "Acompanhe a nossa caminhada"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -66,12 +66,12 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Seja parte <br> da nossa <br> história!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Sobre"
+    text: "nossa história"
+    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos"
     section: about
 
   clients:
@@ -79,27 +79,27 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "ISRIC"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+      - title: "UFRRJ"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+      - title: "MATE"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
+      - title: "Instituto..."
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    title: "Conheça o time Data Situ"
+    text: "Vaja as nossas qualificaçãoes e carreira acadêmica"
+    subtext: Somos doutores em Solos e Meio Ambiente formados na Universidade Federal Rural do Rio de Janeiro
+    section: time
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Maria Marques"
+        role: "Cordenadora de marketing e mídia, atendimento ao cliente e financeiro"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -108,8 +108,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Yuri Gelsleichter"
+        role: "Coordenação, sensoriameno remoto, automação, mapeamento de solos e engenharia de dados"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -119,7 +119,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Diana Perterson"
-        role: "Lead Developer"
+        role: "Coordenação, estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -130,19 +130,19 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contato"
+    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Nome*"
+    name-validation: "Por favor preencha seu nome."
     email: "Email*"
-    email-validation: "Please enter your email address."
+    email-validation: "Por favor preencha seu endereço de email."
     phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
+    phone-validation: "Por favor preencha seu nome número de telefone."
+    message: "Mensagem*"
+    message-validation: "Por favor escreva a mensagem."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Enviar"
 
   footer:
     legal: "Privacy Policy"
