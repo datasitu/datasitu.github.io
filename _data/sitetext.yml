@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "Sobre"
     text: "Um pouco da nossa história"
-    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos. #services"
+    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos. [link](https://github.com/raviriley/agency-jekyll-theme)"
     section: about
 
   clients:
