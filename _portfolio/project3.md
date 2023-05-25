@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Monitoramento de culturas
+subtitle: Identifique problemas de antemão e eviter perdas
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Monitoramento de culturas
+  subtitle: Identifique problemas de antemão e eviter perdas
+  thumbnail: assets/img/portfolio/Pivo1.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-
+O monitoramento de culturas é uma ferramenta muito rápida para identificar problemas como stress hídrico, water logging, pragas, e falta de nutrientas.
+Ainda auxilia na agricultura de precisão evitando aplicações desnecessaŕias e consequentemente contribuindo para o saldo positivo.
