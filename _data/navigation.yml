@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     - title: "Contato"
       section: contact
     - title: "Notas técnicas"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: Notas_tecnicas
     - title: "Notas técnicas"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
