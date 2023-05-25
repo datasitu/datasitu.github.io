@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Aumente a sua produtividade no campo!
     text: É uma satisfação atender você
-    button: Veja mais
+    button: Saiba mais
     buttonlink: "#services"
 
   services:
