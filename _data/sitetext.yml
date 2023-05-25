@@ -147,6 +147,9 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     text: "Endereço: hshshs. CNPJ 73777737366363"
+    subtext: Somos doutores em Solos e Meio Ambiente formados na Universidade Federal Rural do Rio de Janeiro
+    desc: "Ravi Riley converted Agency"
+    body: "Viemos da academia"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
@@ -167,6 +170,9 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+# ------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------
 # Spanish
 # -------
 es: &DEFAULT_ES
