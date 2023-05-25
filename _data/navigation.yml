@@ -25,7 +25,7 @@ en: &DEFAULT_EN
       section: contact
     - title: "Notas técnicas"
       url: Notas_tecnicas
-    - title: "Notas técnicas"
+    - title: "Pagina externa (link)"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
