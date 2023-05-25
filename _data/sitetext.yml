@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Maria Marques"
-        role: "Cordenadora de marketing e mídia, atendimento ao cliente e financeiro"
+        role: "Cordenadora de marketing e mídia, atendimento ao cliente e financeiro, ver [curriculo](https://gelsleichter.github.io/port_resume/)"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Yuri Gelsleichter"
-        role: "Coordenação, sensoriameno remoto, automação, mapeamento de solos e engenharia de dados"
+        role: "Coordenação, sensoriameno remoto, automação, mapeamento de solos e engenharia de dados, ver [curriculo](https://gelsleichter.github.io/port_resume/)"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,9 +118,11 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+          - url: https://linkedin.com
+            icon: fa-solid fa-file-user
       - name: "Elias Mendes Costa"
-        role: "Coordenação, estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
-        image: assets/img/team/3.jpg
+        role: "Coordenação, estatítica aplicada, design experimental, mapeamento de solos e cientista de dados, ver [curriculo](https://gelsleichter.github.io/port_resume/)"
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -129,20 +131,20 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  #contact:
-    #title: "Contato"
-    #text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789"
-    #section: contact
-    #name: "Nome*"
-    #name-validation: "Por favor preencha seu nome."
-    #email: "Email*"
-    #email-validation: "Por favor preencha seu endereço de email."
-    #phone: "Número de telefone"
-    #phone-validation: "Por favor preencha seu nome número de telefone."
-    #message: "Mensagem*"
-    #message-validation: "Por favor escreva a mensagem."
-    #subject: "Contact Form Submission"
-    #submit: "Enviar"
+  contact:
+    title: "Contato"
+    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789"
+    section: contact
+    name: "Nome*"
+    name-validation: "Por favor preencha seu nome."
+    email: "Email*"
+    email-validation: "Por favor preencha seu endereço de email."
+    phone: "Número de telefone"
+    phone-validation: "Por favor preencha seu nome número de telefone."
+    message: "Mensagem*"
+    message-validation: "Por favor escreva a mensagem."
+    subject: "Contact Form Submission"
+    submit: "Enviar"
     
   footer:
     legal: "Privacy Policy"
