@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   services:
     title: "Serviços"
     text: "Do tamanho da sua demanda"
-    section: serviços
+    section: services
     list:
       - title: "[Monitoramento de cultura](https://fontawesome.com/icons)"
         desc: "Identifique probemas no solo, água, adubação, pragas, etc. Executamos mensal, bi-mensal ou bi-semanal"
