@@ -118,7 +118,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Elias Mendes Costa"
         role: "Coordenação, estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
         image: assets/img/team/500x500.jpg
         social:
@@ -137,7 +137,7 @@ en: &DEFAULT_EN
     name-validation: "Por favor preencha seu nome."
     email: "Email*"
     email-validation: "Por favor preencha seu endereço de email."
-    phone: "Phone Number"
+    phone: "Número de telefone"
     phone-validation: "Por favor preencha seu nome número de telefone."
     message: "Mensagem*"
     message-validation: "Por favor escreva a mensagem."
