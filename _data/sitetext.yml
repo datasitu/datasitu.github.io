@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "Sobre"
     text: "Um pouco da nossa história"
-    body: "Viemos da academia com sólido embasamento téorico, e também com muita estrada em trabalhos práticos. [link](https://github.com/raviriley/agency-jekyll-theme)"
+    body: "Data Situ é uma empresa inovadora em monitoramento ambiental, \n nasceu da junção entre tecnologia avançada em aprendizado de máquinas e mineração de dados  com agricultura de precisão. Viemos da academia com sólido embasamento teórico, mas também com uma vasta experiência em trabalhos práticos. O produto central é uma solução completa de monitoramento via satélite, desenvolvida especificamente para atender às necessidades dos agricultores e investidores agrícolas que enfrentam o desafio de gerir a agricultura tropical de média a grande extensão. Em um mundo onde as mudanças ambientais são constantes, os agricultores se deparam com novos desafios diariamente. Essas mudanças não afetam apenas a viabilidade do cultivo, mas também têm um impacto direto na produtividade e nos rendimentos das lavouras. Nossa missão na Data Situ é fornecer as ferramentas e os insights necessários para que os agricultores possam enfrentar esses desafios de forma eficaz e sustentável."
     section: about
 
   clients:
