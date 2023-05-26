@@ -38,17 +38,17 @@ en: &DEFAULT_EN
     closebutton: "Fechar e retornar"
 
   timeline:
-    title: "Linha do tempo"
-    text: "Acompanhe a nossa caminhada"
+    title: "Problemas, Detecções e Soluções"
+    text: "Acompanhe a jornada do nosso trabalho."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Variabilidade do solo"
+        region: "Vale do São Francisco"
+        input: "Solo: O monitoramento de cultura identificou a variabilidade do solo na região, incluindo diferenças na textura, pH e disponibilidade de nutrientes. Essas diferenças resultaram em produções inconsistentes."
         image: assets/img/timeline/1.jpg
-        alt:
+        output: "Solo: A adoção de técnicas de agricultura de precisão, como a amostragem de solo baseada em GPS e mapeamento de zonas de manejo, ajudou a entender a variabilidade do solo e a aplicar tratamentos específicos."
       - title: "An Agency is Born"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
@@ -94,12 +94,13 @@ en: &DEFAULT_EN
 
   team:
     title: "Equipe"
-    text: "Veja as nossas qualificaçãoes e carreira acadêmica"
+    text: "Veja as nossas qualificações e carreira acadêmica"
     subtext: Somos doutores em Solos e Meio Ambiente formados na Universidade Federal Rural do Rio de Janeiro
     section: team
     people:
-      - name: "Maria Marques"
-        role: "Cordenadora de marketing e mídia, atendimento ao cliente e financeiro"
+      - name: "Maria Ap. Marques"
+        role: "Coordenadora de marketing e mídia, atendimento ao cliente e financeiro"
+        role: "É um prazer atender você agricultor"
         image: assets/img/team/Maria.jpeg
         social:
           - url: https://twitter.com
@@ -108,8 +109,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Yuri Gelsleichter"
-        role: "Coordenação, sensoriameno remoto, automação, mapeamento de solos e engenharia de dados"
+      - name: "Yuri A. Gelsleichter"
+        role: "Coordenador dos projetos de: sensoriameno remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
         image: assets/img/team/Yuri.jpeg
         social:
           - url: https://twitter.com
@@ -121,7 +122,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fa-regular fa-file
       - name: "Elias Mendes Costa"
-        role: "Coordenação, estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
+        role: "Coordenador de projetos de: estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
         image: assets/img/team/Elias.jpg
         social:
           - url: https://twitter.com
@@ -133,7 +134,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contato"
-    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 12 3456789"
+    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +36 70 8832-647"
     section: contact
     name: "Nome*"
     name-validation: "Por favor preencha seu nome."
