@@ -9,10 +9,6 @@ O monitoramento ambiental é uma ferramenta muito poderosa para auxiliar a manun
 
 ![Link](https://www.epagri.sc.gov.br/wp-content/uploads/2020/05/pastagem-1.jpg "Pastagem")
 
-[![Elephant](elephant.png)](https://en.wikipedia.org/wiki/Elephant)
-
-[![Pastagem](pastagem.png)](https://www.epagri.sc.gov.br/wp-content/uploads/2020/05/pastagem-1.jpg)
-
 Fale conosco (colocar link depois)
 
 Cada nota técnica pode ter uma página própria
