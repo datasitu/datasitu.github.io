@@ -27,6 +27,9 @@ en: &DEFAULT_EN
       - title: "Relatórios personalizados na palma da sua mão"
         desc: "Gráficos e mapas. Corrdenadas de GPS do local afateado"
         icon: fas fa-laptop
+      - title: "Relatórios personalizados na palma da sua mão"
+        desc: "Gráficos e mapas. Corrdenadas de GPS do local afateado"
+        icon: fas fa-laptop
       - title: "[Análises estatísticas](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Testes de amostragem, calagem para correção de pH, indicação para aplicação localizada de fertilizantes"
         icon: fab fa-markdown
@@ -44,17 +47,22 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Variabilidade do solo"
-        region: "Vale do São Francisco"
-        input: "Solo: O monitoramento de cultura identificou a variabilidade do solo na região, incluindo diferenças na textura, pH e disponibilidade de nutrientes. Essas diferenças resultaram em produções inconsistentes."
+      - title: "Variabilidade do solo: Vale do São Francisco"
+        year: ""
+        desc: "Solo: O monitoramento de cultura identificou a variabilidade do solo na região, incluindo diferenças na textura, pH e disponibilidade de nutrientes. Essas diferenças resultaram em produções inconsistentes."
         image: assets/img/timeline/1.jpg
-        output: "Solo: A adoção de técnicas de agricultura de precisão, como a amostragem de solo baseada em GPS e mapeamento de zonas de manejo, ajudou a entender a variabilidade do solo e a aplicar tratamentos específicos."
+        alt: "Solo: A adoção de técnicas de agricultura de precisão, como a amostragem de solo baseada em GPS e mapeamento de zonas de manejo, ajudou a entender a variabilidade do solo e a aplicar tratamentos específicos."
       - title: "An Agency is Born"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Jekyll Theme is created"
+        year: "2019"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Teste: Jekyll Theme is created"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
@@ -99,7 +107,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Maria Ap. Marques"
-        role: "Coordenadora de marketing e mídia, atendimento ao cliente e financeiro"
+        role: "Administradora, coordenadora de marketing e mídia, atendimento ao cliente e financeiro"
         role: "É um prazer atender você agricultor"
         image: assets/img/team/Maria.jpeg
         social:
@@ -110,7 +118,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Yuri A. Gelsleichter"
-        role: "Coordenador dos projetos de: sensoriameno remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
+        role: "Engenheiro Ambinetal, coordenador dos projetos de: sensoriameno remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
         image: assets/img/team/Yuri.jpeg
         social:
           - url: https://twitter.com
@@ -119,14 +127,12 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          - url: https://linkedin.com
-            icon: fa-regular fa-file
       - name: "Elias Mendes Costa"
-        role: "Coordenador de projetos de: estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
+        role: "Agrônomo, coordenador de projetos de: estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
         image: assets/img/team/Elias.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+         # - url: https://twitter.com
+         #   icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
