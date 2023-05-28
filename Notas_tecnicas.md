@@ -4,6 +4,9 @@ title: Notas Técnicas
 ---
 
 **Agricultura de Precisão e Importância do Manejo Localizado**
+
+![Link](https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp "AP")
+
 A agricultura de precisão é uma abordagem inovadora que utiliza tecnologias avançadas para melhorar a eficiência no uso de insumos agrícolas, reduzir custos e minimizar impactos ambientais.
 
 A agricultura de precisão baseia-se no monitoramento detalhado e na análise de informações relacionadas às características do solo, clima, culturas, pragas e doenças, por meio do uso de sensores, sistemas de posicionamento global (GPS), imagens de satélite, drones e softwares específicos. Esses dados são coletados em tempo real e permitem aos agricultores tomarem decisões mais embasadas e assertivas, resultando em um manejo mais preciso das áreas de cultivo.
@@ -20,7 +23,7 @@ A importância do manejo localizado na agricultura de precisão pode ser resumid
 
     Tomada de decisão embasada: Com o auxílio de tecnologias de agricultura de precisão, os agricultores têm acesso a dados e informações precisas sobre suas lavouras. Essas informações permitem uma tomada de decisão mais embasada e orientada por dados, o que favorece a adoção de práticas mais eficientes e sustentáveis.
 
-![Link](https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp "AP")
+
 
 ![Fale conosco ](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
 
