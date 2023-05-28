@@ -41,8 +41,8 @@ en: &DEFAULT_EN
     closebutton: "Fechar e retornar"
 
   timeline:
-    title: "Mantenha sua produção forte e saudável"
-    text: "Etapas do monitoramento de cultura"
+    title: "Etapas do monitoramento e agricultura de precisão"
+    text: "Aumente a sua produtividade com decisões ágeis"
     section: timeline
     # left is the default
     #start_align: "left"
