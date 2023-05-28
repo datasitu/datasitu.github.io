@@ -111,7 +111,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Maria Ap. Marques"
-        role: "Administradora, coordenadora de marketing e mídia, atendimento ao cliente e financeiro <br>; é um prazer atender você agricultor"
+        role: "Administradora, coordenadora de marketing e mídia, atendimento ao cliente e financeiro; é um prazer atender você agricultor"
         image: assets/img/team/Maria.jpeg
         social:
          # - url: https://wa.me/message/6XYV3TT2NBXEO1
