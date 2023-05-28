@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Aumente a sua produtividade no campo!
-    text: É uma satisfação atender você <input type="button" onclick="window.location.href='https://www.w3docs.com';" value="w3docs" />
+    text: É uma satisfação atender você
     button: Fale pelo <br> Whatsapp
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: "Do tamanho da sua demanda"
     section: services
     list:
-      - title: "[Monitoramento de cultura](https://fontawesome.com/icons)"
-        desc: "Identifique probemas no solo, água, adubação, pragas, etc. Executamos mensal, bi-mensal ou bi-semanal"
+      - title: "[Monitoramento de cultura](https://wa.me/message/6XYV3TT2NBXEO1)"
+        desc: "Identifique probemas no solo, água, adubação, pragas, etc; quinzenal ou mensal"
         icon: fas fa-solid fa-satellite #find more at https://fontawesome.com/icons
-      - title: "Relatórios personalizados na palma da sua mão"
+      - title: "Relatórios personalizados na palma da sua mão](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Gráficos e mapas. Corrdenadas de GPS do local afateado"
         icon: fas fa-laptop
-      - title: "[Análises estatísticas](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "[Análises estatísticas](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Testes de amostragem, calagem para correção de pH, indicação para aplicação localizada de fertilizantes"
         icon: fab fa-markdown
 
@@ -47,37 +47,37 @@ en: &DEFAULT_EN
       - title: "Ser rápido na identificação do problema"
         # year: ""
         desc: "Uma das maneiras mais eficazes de manter a sua cultura forte a saudável é idenficando o problema de forma rápida para resolver imediatamente."
-        image: assets/img/timeline/1.jpg
-        alt: foto de satélite
+        image: assets/img/timeline/sat1.JPG
+        alt: 
       - title: "Água em manejo eficiente"
         # year: ""
         desc: "Água é fundamental para qualquer cultura, no entanto a falta ou excesso podem prejudicar o crescimento vegetal, o cruzamento de dados de sensoriamento remoto com outras camadas de informação como topografia podem trazer informaçãoes valisos para o manejo."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/water2.jpeg
         alt: foto água e topografia
       - title: "Infuência da topografia na água"
         # year: "Mar 2019"
         desc: "A topografia é um dos fatores básicos para formação do solo pelo controle de água e os processos de desenvolvimento do solo. Sendo assim, morfologia do terrreno é um fator de controle de água que deve ter atenção para um manejo otimizado."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/topo3.jpg
         alt: foto topografia
       - title: "A textura do solo"
         # year: "2019"
         desc: "A textura (granulometria) do solo influencia diretamente a fertilidade natural. Solos com maior proporção de partículas finas, como argila, retêm mais água e nutrientes, com maior disponibilidade para as plantas. Por outro lado, solos com textura mais arenosa possuem uma menor capacidade de retenção de água e nutrientes, o que pode afetar negativamente a fertilidade natural."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/texture4.jpeg
         alt: 
       - title: "A matéria orgânica do solo"
         # year: "2019"
         desc: "A presença de matéria orgânica no solo melhora sua estrutura, aumenta a capacidade de retenção de água, promove a formação de agregados e estimula a atividade biológica, favorecendo a disponibilidade de nutrientes para as plantas. Além disso, a matéria orgânica ajuda a evitar erosão, sendo fundamental para a preservação e o aumento da fertilidade do solo pela suas caracteríticas de capcidade de troca catiônica (CTC) do solo."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/om5.jpg
         alt: 
-      - title: "Índices de Vegetação no monitoramento ambiental."
+      - title: "Índices de vegetação no monitoramento ambiental."
         # year: "2019"
         desc: "Os índices de vegetação e o monitoramento ambiental são soluções essenciais para a agricultura. Por meio desses métodos, é possível obter informações precisas sobre o desenvolvimento das plantas, identificar áreas de estresse, avaliar a cobertura vegetal e monitorar as condições ambientais. Essas ferramentas permitem que os agricultores tomem decisões mais informadas, otimizem o uso de recursos como água e fertilizantes, e maximizem a produtividade."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/indexes6.jpg
         alt: 
       - title: "Vantagens do monitoramento remoto"
         # year: "2009-2011"
         desc: "O monitoramento ambiental de culturas com emprego de sensoriamento remoto via satélite é uma ferramenta ágil para identificar problemas com falta ou excesso de água, suas causas relacionadas com topografia, pragas e doenças, assim como em certa medida avaliar a características do solo como a granulometria e fertilidade, auxiliando na tomada de decisões rápidas para o manejo agrícola."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/s_remoto7.png
         alt:
         # you can enforce the alignment
         align: right
@@ -98,14 +98,11 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
       - title: "UFRRJ"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://portal.ufrrj.br/
         logo: assets/img/clients/designmodo.jpg
       - title: "MATE"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://uni-mate.hu/
         logo: assets/img/clients/themeforest.jpg
-      - title: "Instituto..."
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Equipe"
@@ -117,31 +114,35 @@ en: &DEFAULT_EN
         role: "Administradora, coordenadora de marketing e mídia, atendimento ao cliente e financeiro <br>; é um prazer atender você agricultor"
         image: assets/img/team/Maria.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://wa.me/message/6XYV3TT2NBXEO1
+            icon: fa-brands fa-whatsapp 
+          - url: https://www.instagram.com/mariamarquesadm/
+            icon: "fab fa-instagram"
+          - url: https://www.linkedin.com/in/mariamarquesadm/
             icon: fab fa-linkedin-in
       - name: "Yuri A. Gelsleichter"
         role: "Engenheiro Ambinetal, coordenador dos projetos em sensoriameno remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
         image: assets/img/team/Yuri.jpeg
         social:
-          - url: https://twitter.com
+          - url: https://www.instagram.com/oficina_do_r/
+            icon: "fab fa-instagram"
+          - url: https://twitter.com/Y_gelsleichter
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/yuri.gelsleichter
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/yurigelsleichter/
             icon: fab fa-linkedin-in
       - name: "Elias Mendes Costa"
         role: "Agrônomo, coordenador de projetos em estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
         image: assets/img/team/Elias.jpg
         social:
+          - url: https://www.instagram.com/eliasmendescosta/
+            icon: "fab fa-instagram"
          # - url: https://twitter.com
          #   icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/elias.mendes.98
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/elias-mendes-costa-3ba13614b/
             icon: fab fa-linkedin-in
 
   contact:
@@ -162,15 +163,15 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/Data_Situ
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/profile.php?id=100092645845656
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/data-situ/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/datasitu
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/datasitu/
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
