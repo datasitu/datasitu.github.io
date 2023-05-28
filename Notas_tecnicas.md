@@ -3,7 +3,7 @@ layout: page
 title: Notas Técnicas
 ---
 
-**Agricultura de Precisão e Importância do Manejo Localizado**
+**Agricultura de Precisão e a Importância do Manejo Localizado**
 
 ![Link](https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp "AP")
 
@@ -42,7 +42,10 @@ Dessa forma, o agronegócio brasileiro se consolida como um dos pilares da econo
 
 Potencialize seu agronegócio com o monitoramento agrícola de lavouras da Data Situ e ganhe uma vantagem competitiva decisiva. Tenha acesso imediato a dados precisos e informações estratégicas que permitirão tomadas de decisão ágeis e eficientes. Com nossa tecnologia avançada, você estará um passo à frente, antecipando problemas, identificando oportunidades e agindo rapidamente para maximizar seus resultados. Não deixe as incertezas prejudicarem seu progresso. Conte com nosso monitoramento para uma gestão eficaz e inteligente. Garanta o sucesso do seu agronegócio e colha os frutos de decisões estratégicas fundamentadas em informações atualizadas e confiáveis. Você ainda pode contar com experiiênca em consultoria agronômica com ênfase nas culturas de soja, milho e algodão. 
 
+![Fale conosco ](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
+
 **Água e topografia**
+
 Cada nota técnica pode ter uma página própria
 
 Falta excesso de água, relevo...
