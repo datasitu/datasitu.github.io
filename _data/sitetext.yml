@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt: 
       - title: "A matéria orgânica do solo"
         # year: "2019"
-        desc: "A presença de matéria orgânica no solo melhora sua estrutura, aumenta a capacidade de retenção de água, promove a formação de agregados e estimula a atividade biológica, favorecendo a disponibilidade de nutrientes para as plantas. Além disso, a matéria orgânica ajuda a evitar erosão, sendo fundamental para a preservação e o aumento da fertilidade do solo pela suas caracteríticas de capcidade de troca catiônica (CTC) do solo."
+        desc: "A matéria orgânica do solo e o equilíbrio nutricional são essenciais para a saúde das plantas e altas produtividades. A matéria orgânica melhora a estrutura do solo, aumentando sua capacidade de retenção de água e nutrientes. Ela também fornece gradualmente os nutrientes necessários para o desenvolvimento das plantas. Já o equilíbrio nutricional garante que as plantas recebam todos os nutrientes necessários em quantidades adequadas, evitando deficiências ou excessos que possam prejudicar seu crescimento. Ambos os aspectos são fundamentais para obter plantas saudáveis e altos rendimentos de produção."
         image: assets/img/timeline/om5.jpg
         alt: 
       - title: "Índices de vegetação no monitoramento ambiental"
