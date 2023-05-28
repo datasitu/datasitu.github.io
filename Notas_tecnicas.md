@@ -21,6 +21,26 @@ A importância do manejo localizado na agricultura de precisão pode ser resumid
 ![Fale conosco ](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
 
 
+**Agronegócio e geração de emprego e renda para o Brasil**
+
+O agronegócio brasileiro desempenha um papel fundamental no crescimento econômico do país, sendo responsável por uma significativa parcela do Produto Interno Bruto (PIB), geração de empregos e renda. As exportações do setor agropecuário têm apresentado um crescimento promissor, indicando um cenário positivo para a próxima década.
+
+De acordo com as Projeções do Agronegócio para o Brasil 2019/20 a 2029/30, as exportações do agronegócio brasileiro acumularam um total de US$ 35.950.053.973 nos primeiros meses de 2023. Esse dado demonstra o potencial pujante do setor e confirma sua importância para a balança comercial do país.
+
+Nos últimos três anos, o agronegócio tem se destacado, ultrapassando a marca de 100 bilhões de dólares em exportações, como mostrado na Figura 1. Esse desempenho ressalta a relevância do agronegócio para a economia brasileira e sua posição de destaque no mercado global. O setor tem sido um dos pilares do comércio exterior do Brasil, impulsionando a entrada de divisas e contribuindo para a estabilidade econômica.
+![image](https://github.com/datasitu/datasitu.github.io/assets/134561525/fcf95171-8660-423c-bf6d-902e9b7fcf49)
+Figura 1. Balança Comercial do Agronegócio – Série Histórica (US$ bilhões), para 2023 referente ao acumulado de janeiro a março/2023. Fonte: Agrostat/Mapa
+
+Além do impacto nas exportações, o agronegócio também desempenha um papel crucial na geração de empregos e renda. Segundo dados da Companhia Nacional de Abastecimento (CONAB), a área plantada com grãos vem aumentando nos últimos anos, alcançando 76,0 milhões de hectares na safra de 2022/23, com uma produção crescente de 312,5 milhões de toneladas.
+
+O Valor Bruto da Produção Agropecuária (VBP) de 2022 foi de R$ 1,174 trilhão, com destaque para as lavouras, que geraram um faturamento de R$ 812,72 bilhões. Os principais produtos classificados nesse contexto são soja, milho, cana-de-açúcar, café e algodão. Além disso, cinco estados - Mato Grosso, São Paulo, Paraná, Minas Gerais e Goiás - contribuem com mais de 60% do VBP nacional.
+
+Esses números reafirmam a importância do agronegócio para o PIB do Brasil, evidenciando seu papel como motor da economia. O setor não apenas impulsiona as exportações e o comércio exterior, mas também promove o desenvolvimento regional, com a geração de empregos e renda em diferentes partes do país.
+
+Dessa forma, o agronegócio brasileiro se consolida como um dos pilares da economia nacional, proporcionando estabilidade, crescimento e oportunidades para milhões de brasileiros. É fundamental valorizar e investir nesse setor estratégico, fortalecendo suas cadeias produtivas, fomentando a inovação e promovendo a sustentabilidade, a fim de garantir um futuro próspero e equilibrado para o Brasil.
+
+
+
 **Água e topografia**
 Cada nota técnica pode ter uma página própria
 
