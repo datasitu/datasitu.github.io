@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Aumente a sua produtividade no campo!
     text: É uma satisfação atender você
-    button: Fale pelo <br> Whatsapp
+    button: Fale conosco <br> Whatsapp
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
   services:
@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "[Análises estatísticas](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Testes de amostragem, calagem para correção de pH, indicação para aplicação localizada de fertilizantes"
-        icon: fas fa-solid fa-chart-column 
+        icon: fas fa-solid fa-book
       - title: "teste"
-        desc: "Testes"
-        icon: fas fa-brands fa-whatsapp
+        desc: "Testes icone "
+        icon: fa-solid fa-book
 
   portfolio:
     title: "Estudos de caso"
