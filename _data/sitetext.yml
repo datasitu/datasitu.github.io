@@ -22,14 +22,17 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[Monitoramento de cultura](https://wa.me/message/6XYV3TT2NBXEO1)"
-        desc: "Identifique probemas no solo, água, adubação, pragas, etc; quinzenal ou mensal"
+        desc: "Identifique probemas no solo, água, fertilidade, pragas, doenças, etc; quinzenal ou mensal"
         icon: fas fa-solid fa-satellite #find more at https://fontawesome.com/icons
       - title: "[Relatórios personalizados na palma da sua mão](https://wa.me/message/6XYV3TT2NBXEO1)"
-        desc: "Gráficos e mapas. Corrdenadas de GPS do local afateado"
+        desc: "Gráficos e mapas. Coordenadas de GPS do local afateado"
         icon: fas fa-laptop
       - title: "[Análises estatísticas](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Testes de amostragem, calagem para correção de pH, indicação para aplicação localizada de fertilizantes"
-        icon: fab fa-markdown 
+        icon: fa-solid fa-chart-column 
+      - title: "teste"
+        desc: "Testes"
+        icon: fa-brands fa-whatsapp
 
   portfolio:
     title: "Estudos de caso"
@@ -38,7 +41,7 @@ en: &DEFAULT_EN
     closebutton: "Fechar e retornar"
 
   timeline:
-    title: "Mantenha a sua cultura forte e saudável"
+    title: "Mantenha sua produção forte e saudável"
     text: "Etapas do monitoramento de cultura"
     section: timeline
     # left is the default
