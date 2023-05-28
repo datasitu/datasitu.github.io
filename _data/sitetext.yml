@@ -133,7 +133,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/yurigelsleichter/
             icon: "fab fa-linkedin-in"
       - name: "Elias Mendes Costa"
-        role: "Agrônomo, coordenador de projetos em estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
+        role: "Engenheiro Agrônomo, coordenador de projetos em estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
         image: assets/img/team/Elias.jpg
         social:
           - url: https://www.instagram.com/eliasmendescosta/
