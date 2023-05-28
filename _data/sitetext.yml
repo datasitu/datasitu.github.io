@@ -161,7 +161,7 @@ en: &DEFAULT_EN
     submit: "Enviar"
     
   footer:
-    legal: "Privacy Policy"
+    legal: "CNPJ"
     social:
       - url: https://wa.me/message/6XYV3TT2NBXEO1
         icon: "fas fa-solid fa-phone"
