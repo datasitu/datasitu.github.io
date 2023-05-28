@@ -114,8 +114,8 @@ en: &DEFAULT_EN
         role: "Administradora, coordenadora de marketing e mídia, atendimento ao cliente e financeiro <br>; é um prazer atender você agricultor"
         image: assets/img/team/Maria.jpeg
         social:
-          - url: https://wa.me/message/6XYV3TT2NBXEO1
-            icon: assets/img/whatsapp.svg 
+         # - url: https://wa.me/message/6XYV3TT2NBXEO1
+         #   icon: assets/img/whatsapp.svg 
           - url: https://www.instagram.com/mariamarquesadm/
             icon: "fab fa-instagram"
           - url: https://www.linkedin.com/in/mariamarquesadm/
@@ -163,8 +163,8 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://wa.me/message/6XYV3TT2NBXEO1
-        icon: "fa-brands fa-whatsapp" 
+      # - url: https://wa.me/message/6XYV3TT2NBXEO1
+      #  icon: "fa-brands fa-whatsapp" 
       - url: https://twitter.com/Data_Situ
         icon: "fab fa-twitter"
       - url: https://www.facebook.com/profile.php?id=100092645845656
