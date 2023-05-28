@@ -1,19 +1,18 @@
 ---
-title: Identificação de vulnerabilidade do solo
-subtitle: Trabalho realizado em região de montanha
+title: Identificação de vulnerabilidade ambiental
+subtitle: Modelagem probabilista e participativa para avaliação da vulnerabilidade ambiental
 image: assets/img/portfolio/vulnerability_Ross.png
 alt: 
 
 caption:
-  title: Identificação de vulnerabilidade do solo
-  subtitle: Região de montanha
-  thumbnail: assets/img/portfolio/vulnerability_Ross.png
+  title: Avalição da vulnerabilidade ambiental em áreas protegidas
+  subtitle: Equilibrando Natureza e Recreação: A Importância da Conciliação em Parques e Áreas Protegidas
+  thumbnail: assets/img/portfolio/bbn.png
 ---
-Neste projeto foi avaliado as áreas mia sucetiveis a problemas de erosão e perda de fertilidade natural.
-rrhmknkkm kl  bkl k km bm
+Experimente nossa abordagem baseada em estatística statítica e modelagem para o monitoramento ambiental e análise de vulnerabilidade de áreas. No Parque Nacional de Itatiaia, implementamos com sucesso a avaliação da vulnerabilidade ambiental usando uma rede de crenças bayesianas (BBN). Com base em informações cruciais, como atributos do solo, uso/cobertura da terra, clima, relevo e material de origem, nosso modelo BBN produziu resultados significativos. A abordagem BBN é menos subjetiva do que as metodologias convencionais e permite a propagação da incerteza associada às previsões. Nossos resultados ajudam os tomadores de decisão a identificar áreas prioritárias para intervenção e reduzir a degradação do solo em locais altamente vulneráveis. Além disso, nosso modelo BBN pode ser atualizado conforme novos conhecimentos e dados surgem. Não perca a chance de se beneficiar de nosso serviço especializado de monitoramento ambiental. Entre em contato conosco agora mesmo e descubra como podemos ajudar sua organização, pública ou privada,a mitigar riscos, proteger o meio ambiente e promover um manejo sustentável de áreas vulneráveis.
 
 {:.list-inline}
 - Date: Outubro de 2019
 - Client: UFRRJ
-- Category: Mapeamento digital de solos
+- Category: Mapeamento digital de solos e análise ambiental
 
