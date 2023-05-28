@@ -1,7 +1,7 @@
 ---
 title: Mapeamento de propriedades de solo
 subtitle: Mantenha e aumente a sua produtividade
-image: assets/img/portfolio/spectral_raster_stack_rapideye_122_map_C.png
+image: assets/img/cot_PNI.png
 alt: 
 
 caption:
@@ -15,8 +15,15 @@ Ao valorizar o carbono armazenado no solo, você pode atrair investimentos de em
 
 Não perca a oportunidade de impulsionar sua organização para a frente, garantindo a preservação ambiental e aproveitando as vantagens financeiras do mercado de carbono. Entre em contato conosco hoje mesmo para saber mais sobre nossos serviços de mapeamento de solos e monitoramento ambiental e descubra como podemos ajudar você a aproveitar o potencial do solo como reservatório de carbono.
 
+**Localização do estudo de caso**
+![image](https://github.com/datasitu/datasitu.github.io/assets/134561525/d3939d3c-5af0-41bf-974a-f2a352d59618)
+
+
+
 Detalhes dos estudos que realizamos podem ser encontrados em
+
 [Mapping soil properties in a poorly-accessible area] (https://www.scielo.br/j/rbcs/a/75Sq3qv9LzPvNjygP65nY4j/?lang=en) 
 
+[Enhancing Soil Mapping with Hyperspectral Subsurface Images generated from soil lab Vis-SWIR spectra tested in southern Brazil] (https://www.sciencedirect.com/science/article/abs/pii/S2352009423000378)
 
 (Add links, artigos). 
