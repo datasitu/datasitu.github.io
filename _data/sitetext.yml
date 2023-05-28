@@ -64,7 +64,7 @@ en: &DEFAULT_EN
         desc: "A textura (granulometria) do solo influencia diretamente a fertilidade natural. Solos com maior proporção de partículas finas, como argila, retêm mais água e nutrientes, com maior disponibilidade para as plantas. Por outro lado, solos com textura mais arenosa possuem uma menor capacidade de retenção de água e nutrientes, o que pode afetar negativamente a fertilidade natural."
         image: assets/img/timeline/texture4.jpeg
         alt: 
-      - title: "A matéria orgânica do solo"
+      - title: "Fertilidade e matéria orgânica do solo"
         # year: "2019"
         desc: "A matéria orgânica do solo e o equilíbrio nutricional são essenciais para a saúde das plantas e altas produtividades. A matéria orgânica melhora a estrutura do solo, aumentando sua capacidade de retenção de água e nutrientes. Ela também fornece gradualmente os nutrientes necessários para o desenvolvimento das plantas. Já o equilíbrio nutricional garante que as plantas recebam todos os nutrientes necessários em quantidades adequadas, evitando deficiências ou excessos que possam prejudicar seu crescimento. Ambos os aspectos são fundamentais para obter plantas saudáveis e altos rendimentos de produção."
         image: assets/img/timeline/om5.jpg
