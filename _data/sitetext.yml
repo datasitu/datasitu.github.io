@@ -94,15 +94,15 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "ISRIC"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
       - title: "UFRRJ"
         url: https://portal.ufrrj.br/
-        logo: assets/img/clients/designmodo.jpg
+        logo: assets/img/clients/rural_logo.jpg
+      - title: "ISRIC"
+        url: https://www.isric.org/
+        logo: assets/img/clients/isric_logo.png
       - title: "MATE"
         url: https://uni-mate.hu/
-        logo: assets/img/clients/themeforest.jpg
+        logo: assets/img/clients/logo_mate.jpeg
 
   team:
     title: "Equipe"
