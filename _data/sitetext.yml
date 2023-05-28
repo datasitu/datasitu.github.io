@@ -77,11 +77,11 @@ en: &DEFAULT_EN
       - title: "Vantagens do monitoramento remoto"
         # year: "2009-2011"
         desc: "O monitoramento ambiental de culturas com emprego de sensoriamento remoto via satélite é uma ferramenta ágil para identificar problemas com falta ou excesso de água, suas causas relacionadas com topografia, pragas e doenças, assim como em certa medida avaliar a características do solo como a granulometria e fertilidade, auxiliando na tomada de decisões rápidas para o manejo agrícola."
-        image: <a href="http://google.com.au/"><img src="http://www.google.com.au/images/nav_logo7.png" /></a> 
+        image: <a href="http://google.com.au/"><img src="http://www.google.com.au/images/nav_logo7.png"; /></a> 
         alt:
         # you can enforce the alignment
         align: right
-    end: <a href="http://example.com/" style="color:#FF0000;">Red Link</a>
+    end: <a href="http://example.com/" style="color:#4BC942"> Fale conosco</a>
 
   about:
     title: "Sobre"
