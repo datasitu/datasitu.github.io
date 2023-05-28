@@ -30,7 +30,7 @@ De acordo com as Projeções do Agronegócio para o Brasil 2019/20 a 2029/30, as
 Nos últimos três anos, o agronegócio tem se destacado, ultrapassando a marca de 100 bilhões de dólares em exportações, como mostrado na Figura 1. Esse desempenho ressalta a relevância do agronegócio para a economia brasileira e sua posição de destaque no mercado global. O setor tem sido um dos pilares do comércio exterior do Brasil, impulsionando a entrada de divisas e contribuindo para a estabilidade econômica.
 ![image](https://github.com/datasitu/datasitu.github.io/assets/134561525/fcf95171-8660-423c-bf6d-902e9b7fcf49)
 
-*Figura 1. Balança Comercial do Agronegócio – Série Histórica (US$ bilhões), para 2023 referente ao acumulado de janeiro a março/2023. Fonte: Agrostat/Mapa
+*Figura 1. Balança Comercial do Agronegócio – Série Histórica (US$ bilhões), para 2023 referente ao acumulado de janeiro a março/2023. Fonte: Agrostat/Mapa*
 
 Além do impacto nas exportações, o agronegócio também desempenha um papel crucial na geração de empregos e renda. Segundo dados da Companhia Nacional de Abastecimento (CONAB), a área plantada com grãos vem aumentando nos últimos anos, alcançando 76,0 milhões de hectares na safra de 2022/23, com uma produção crescente de 312,5 milhões de toneladas.
 
