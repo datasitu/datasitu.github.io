@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Sobre"
       section: about
-    - title: "Linha do tempo"
+    - title: "Agricultura de precisão"
       section: timeline
     - title: "Equipe"
       section: team
@@ -25,8 +25,8 @@ en: &DEFAULT_EN
       section: contact
     - title: "Notas técnicas"
       url: Notas_tecnicas
-    - title: "Pagina externa (link)"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Whatsapp"
+      url: https://wa.me/message/6XYV3TT2NBXEO1
 en-US:
   <<: *DEFAULT_EN
 en-CA:
