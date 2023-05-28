@@ -10,8 +10,4 @@ Estamos localizados no endereço: Praca Nereu Ramos 90, Centro, Biguaçu SC, 881
 
 Sob o CNPJ: 42.264.057/0001-48
 
-Razão social Oficina do R Processamento de Dados LTDA
-
-**Email**
-
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Razão social Oficina do R Processamento de Dados LTDA.
