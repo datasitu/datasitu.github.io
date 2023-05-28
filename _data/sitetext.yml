@@ -72,7 +72,7 @@ en: &DEFAULT_EN
       - title: "Índices de Vegetação no monitoramento ambiental."
         # year: "2019"
         desc: "Os índices de vegetação e o monitoramento ambiental são soluções essenciais para a agricultura. Por meio desses métodos, é possível obter informações precisas sobre o desenvolvimento das plantas, identificar áreas de estresse, avaliar a cobertura vegetal e monitorar as condições ambientais. Essas ferramentas permitem que os agricultores tomem decisões mais informadas, otimizem o uso de recursos como água e fertilizantes, e maximizem a produtividade."
-        image: [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+        image: assets/img/timeline/3.jpg
         alt: 
       - title: "Vantagens do monitoramento remoto"
         # year: "2009-2011"
