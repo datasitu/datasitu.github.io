@@ -69,19 +69,19 @@ en: &DEFAULT_EN
         desc: "A presença de matéria orgânica no solo melhora sua estrutura, aumenta a capacidade de retenção de água, promove a formação de agregados e estimula a atividade biológica, favorecendo a disponibilidade de nutrientes para as plantas. Além disso, a matéria orgânica ajuda a evitar erosão, sendo fundamental para a preservação e o aumento da fertilidade do solo pela suas caracteríticas de capcidade de troca catiônica (CTC) do solo."
         image: assets/img/timeline/3.jpg
         alt: 
-      - title: " Índices de Vegetação no monitoramento ambiental."
+      - title: "Índices de Vegetação no monitoramento ambiental."
         # year: "2019"
         desc: "Os índices de vegetação e o monitoramento ambiental são soluções essenciais para a agricultura. Por meio desses métodos, é possível obter informações precisas sobre o desenvolvimento das plantas, identificar áreas de estresse, avaliar a cobertura vegetal e monitorar as condições ambientais. Essas ferramentas permitem que os agricultores tomem decisões mais informadas, otimizem o uso de recursos como água e fertilizantes, e maximizem a produtividade."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.jpg <a href="http://example.com/"></a>
         alt: 
       - title: "Vantagens do monitoramento remoto"
         # year: "2009-2011"
         desc: "O monitoramento ambiental de culturas com emprego de sensoriamento remoto via satélite é uma ferramenta ágil para identificar problemas com falta ou excesso de água, suas causas relacionadas com topografia, pragas e doenças, assim como em certa medida avaliar a características do solo como a granulometria e fertilidade, auxiliando na tomada de decisões rápidas para o manejo agrícola."
-        image: <a href="http://google.com.au/"><img src="http://www.google.com.au/images/nav_logo7.png"; /></a> 
+        image: http://www.google.com.au/images/nav_logo7.png
         alt:
         # you can enforce the alignment
         align: right
-    end: <a href="http://example.com/" style="color:#4BC942"> Fale conosco</a>
+    end: <a href="http://example.com/" style="color:#000000">Fale conosco</a>
 
   about:
     title: "Sobre"
