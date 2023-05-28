@@ -147,7 +147,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contato"
-    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +36 70 8832-647"
+    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 21 99853-0064"
     section: contact
     name: "Nome*"
     name-validation: "Por favor preencha seu nome."
