@@ -54,7 +54,7 @@ en: &DEFAULT_EN
         desc: "Água é fundamental para qualquer cultura, no entanto a falta ou excesso podem prejudicar o crescimento vegetal, o cruzamento de dados de sensoriamento remoto com outras camadas de informação como topografia podem trazer informaçãoes valisos para o manejo."
         image: assets/img/timeline/water2.jpeg
         alt: foto água e topografia
-      - title: "Infuência da topografia na água"
+      - title: "Influência da topografia na água"
         # year: "Mar 2019"
         desc: "A topografia é um dos fatores básicos para formação do solo pelo controle de água e os processos de desenvolvimento do solo. Sendo assim, morfologia do terrreno é um fator de controle de água que deve ter atenção para um manejo otimizado."
         image: assets/img/timeline/topo3.jpg
@@ -133,7 +133,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/yurigelsleichter/
             icon: "fab fa-linkedin-in"
       - name: "Elias Mendes Costa"
-        role: "Engenheiro Agrônomo, coordenador de projetos em experimetação agrícola e análise de dados agronômicos, agricultura de precisção e manejo localizado, novas tecnoligas para grandes culturas"
+        role: "Engenheiro Agrônomo, coordenador de projetos em experimetação agrícola e análise de dados agronômicos, agricultura de precisão e manejo localizado, novas tecnologias para grandes culturas"
         image: assets/img/team/Elias.jpg
         social:
           - url: https://www.instagram.com/eliasmendescosta/
