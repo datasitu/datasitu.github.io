@@ -18,7 +18,7 @@ A importância do manejo localizado na agricultura de precisão pode ser resumid
 - *Melhoria da produtividade*. A aplicação de insumos de acordo com as necessidades específicas das plantas resulta em um melhor desenvolvimento vegetal, maior rendimento e qualidade dos produtos agrícolas. O manejo localizado possibilita maximizar o potencial produtivo de cada área da lavoura, levando em consideração as variações do solo e outros fatores relevantes.
 - *Tomada de decisão embasada*. Com o auxílio de tecnologias de agricultura de precisão, os agricultores têm acesso a dados e informações precisas sobre suas lavouras. Essas informações permitem uma tomada de decisão mais embasada e orientada por dados, o que favorece a adoção de práticas mais eficientes e sustentáveis.
 
-![Fale conosco ](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
+[Fale conosco](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
 
 
 **Agronegócio e geração de emprego e renda para o Brasil**
@@ -42,17 +42,4 @@ Dessa forma, o agronegócio brasileiro se consolida como um dos pilares da econo
 
 Potencialize seu agronegócio com o monitoramento agrícola de lavouras da Data Situ e ganhe uma vantagem competitiva decisiva. Tenha acesso imediato a dados precisos e informações estratégicas que permitirão tomadas de decisão ágeis e eficientes. Com nossa tecnologia avançada, você estará um passo à frente, antecipando problemas, identificando oportunidades e agindo rapidamente para maximizar seus resultados. Não deixe as incertezas prejudicarem seu progresso. Conte com nosso monitoramento para uma gestão eficaz e inteligente. Garanta o sucesso do seu agronegócio e colha os frutos de decisões estratégicas fundamentadas em informações atualizadas e confiáveis. Você ainda pode contar com experiiênca em consultoria agronômica com ênfase nas culturas de soja, milho e algodão. 
 
-![Fale conosco ](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
-
-**Água e topografia**
-
-Cada nota técnica pode ter uma página própria
-
-Falta excesso de água, relevo...
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-
-cdfgghdfg
-
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
+[Fale conosco](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
