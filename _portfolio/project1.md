@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Pivo1.png
-alt: Shirts on a hanger
+title: Agricultura de precisão no mapeamento da fertilidade do solo
+subtitle: Trabalho realizado em área da UFRRJ
+image: assets/img/portfolio/final_cot.png
+alt: 
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/Pivo1.png
+  title: Fertilidade do Solo e Agricultura de Precisão
+  subtitle: Conversão de pastagem degradada em área agrícola
+  thumbnail: assets/img/portfolio/final_Ca.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Descubra como o mapeamento da fertilidade do solo pode transformar sua área de pastagem degradada em uma plantação de citrus produtiva! Através do nosso serviço de monitoramento contínuo, ajustamos o manejo e aplicamos fertilizantes em taxa variável, otimizando recursos e maximizando a eficiência dos nutrientes. Nossos resultados falam por si: uma conversão bem-sucedida da área degradada em um projeto citrícola de alto rendimento. Não perca a oportunidade de alcançar altas produtividades de forma sustentável com o monitoramento da fertilidade do solo e o manejo localizado. Entre em contato conosco agora mesmo para iniciar sua jornada rumo ao sucesso agrícola!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+
+- Date: 2015
+- Client: UFRRJ
+- Category: Agricultura de Precisão
 
