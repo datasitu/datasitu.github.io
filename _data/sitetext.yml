@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Aumente a sua produtividade no campo!
     text: É uma satisfação atender você
-    button: Fale conosco
+    button: Fale <br /> conosco
     buttonlink: "https://github.com/raviriley/agency-jekyll-theme"
 
   services:
@@ -24,9 +24,6 @@ en: &DEFAULT_EN
       - title: "[Monitoramento de cultura](https://fontawesome.com/icons)"
         desc: "Identifique probemas no solo, água, adubação, pragas, etc. Executamos mensal, bi-mensal ou bi-semanal"
         icon: fas fa-solid fa-satellite #find more at https://fontawesome.com/icons
-      - title: "Relatórios personalizados na palma da sua mão"
-        desc: "Gráficos e mapas. Corrdenadas de GPS do local afateado"
-        icon: fas fa-laptop
       - title: "Relatórios personalizados na palma da sua mão"
         desc: "Gráficos e mapas. Corrdenadas de GPS do local afateado"
         icon: fas fa-laptop
@@ -41,17 +38,17 @@ en: &DEFAULT_EN
     closebutton: "Fechar e retornar"
 
   timeline:
-    title: "Problemas, Detecções e Soluções"
-    text: "Acompanhe a jornada do nosso trabalho."
+    title: "Camadas do monitoramento ambinetal"
+    text: "Acompanhe a jornada do nosso trabalho"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Variabilidade do solo: Vale do São Francisco"
+      - title: "Monitoramento da cultura"
         year: ""
         desc: "Solo: O monitoramento de cultura identificou a variabilidade do solo na região, incluindo diferenças na textura, pH e disponibilidade de nutrientes. Essas diferenças resultaram em produções inconsistentes."
         image: assets/img/timeline/1.jpg
-        alt: "Solo: A adoção de técnicas de agricultura de precisão, como a amostragem de solo baseada em GPS e mapeamento de zonas de manejo, ajudou a entender a variabilidade do solo e a aplicar tratamentos específicos."
+        alt: 
       - title: "An Agency is Born"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
