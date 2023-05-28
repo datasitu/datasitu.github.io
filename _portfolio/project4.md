@@ -1,12 +1,12 @@
 ---
 title: Mapeamento de propriedades de solo
-subtitle: Mantenha e aumente a sua produtividade
+subtitle: Sequestro de carbono solo e créditos de carbono
 image: assets/img/cot_PNI.png
 alt: 
 
 caption:
-  title: Mapeamento de propriedades de solo
-  subtitle: Mantenha e aumente a sua produtividade
+  title: Mapeamento do carbono orgânico do solo
+  subtitle: Mudanças climáticas e créditos de carbono
   thumbnail: assets/img/portfolio/spectral_raster_stack_rapideye_122_map_C.png
 ---
 Desbloqueie o potencial do solo como reservatório de carbono e aproveite os benefícios financeiros do mercado de carbono com os serviços de mapeamento de solos e monitoramento ambiental da nossa empresa. Um estudo de caso no Parque Nacional de Itatiaia destacou a presença de Organossolos ricos em carbono orgânico, oferecendo uma oportunidade valiosa para buscar recursos financeiros por meio de créditos de carbono. Com nossa expertise em mapeamento do carbono do solo, podemos ajudar a identificar áreas de alto potencial, monitorar as mudanças ao longo do tempo e fornecer informações estratégicas para tomada de decisões sustentáveis.
