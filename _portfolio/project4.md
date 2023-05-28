@@ -1,7 +1,7 @@
 ---
 title: Mapeamento de propriedades de solo
-subtitle: Sequestro de carbono solo e créditos de carbono
-image: assets/img/cot_PNI.png
+subtitle: Sequestro de carbono no solo 
+image: assets/img/portfolio/cot_PNI.png
 alt: 
 
 caption:
@@ -22,8 +22,8 @@ Não perca a oportunidade de impulsionar sua organização para a frente, garant
 
 Detalhes dos estudos que realizamos podem ser encontrados em
 
-[Mapping soil properties in a poorly-accessible area] (https://www.scielo.br/j/rbcs/a/75Sq3qv9LzPvNjygP65nY4j/?lang=en) 
+[Mapping soil properties in a poorly-accessible area](https://www.scielo.br/j/rbcs/a/75Sq3qv9LzPvNjygP65nY4j/?lang=en) 
 
-[Enhancing Soil Mapping with Hyperspectral Subsurface Images generated from soil lab Vis-SWIR spectra tested in southern Brazil] (https://www.sciencedirect.com/science/article/abs/pii/S2352009423000378)
+[Enhancing Soil Mapping with Hyperspectral Subsurface Images generated from soil lab Vis-SWIR spectra tested in southern Brazil](https://www.sciencedirect.com/science/article/abs/pii/S2352009423000378)
 
-(Add links, artigos). 
+
