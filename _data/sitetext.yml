@@ -164,11 +164,7 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://wa.me/message/6XYV3TT2NBXEO1
-        icon: fas fa-solid fa-phone
-      - url: https://wa.me/message/6XYV3TT2NBXEO1
-        icon: fas fa-whatsapp 
-      - url: https://wa.me/message/6XYV3TT2NBXEO1
-        icon: "fas fa-whatsapp" 
+        icon: "fas fa-solid fa-phone"
       - url: https://twitter.com/Data_Situ
         icon: "fab fa-twitter"
       - url: https://www.facebook.com/profile.php?id=100092645845656
