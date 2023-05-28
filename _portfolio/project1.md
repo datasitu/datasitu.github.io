@@ -13,7 +13,7 @@ Descubra como o mapeamento da fertilidade do solo pode transformar sua área de 
 
 {:.list-inline}
 
-- Date: 2015
-- Client: UFRRJ
-- Category: Agricultura de Precisão
+- Data: 2015
+- Cliente: UFRRJ
+- Categoria: Agricultura de Precisão
 
