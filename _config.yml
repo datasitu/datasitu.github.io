@@ -20,7 +20,7 @@ baseurl: "/"
 
 title      : Data Situ
 email      : datasitu@gmail.com #this is also the email contact forms will go to
-description: "Monitoramento ambiental.."
+description: "Monitoramento ambiental para agricultura de precisão"
 author     : Yuri Gelsleichgter
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
