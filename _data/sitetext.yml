@@ -13,8 +13,10 @@ en: &DEFAULT_EN
   header:
     title: Aumente a sua produtividade no campo!
     text: É uma satisfação atender você
-    button: Fale <br /> conosco
-    buttonlink: "https://github.com/raviriley/agency-jekyll-theme"
+    button: Fale conosco <br> (whatsapp)
+    buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
+    button: whatsapp
+    buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
   services:
     title: "Serviços"
