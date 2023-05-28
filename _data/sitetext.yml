@@ -24,7 +24,7 @@ en: &DEFAULT_EN
       - title: "[Monitoramento de cultura](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Identifique probemas no solo, água, adubação, pragas, etc; quinzenal ou mensal"
         icon: fas fa-solid fa-satellite #find more at https://fontawesome.com/icons
-      - title: "Relatórios personalizados na palma da sua mão](https://wa.me/message/6XYV3TT2NBXEO1)"
+      - title: "[Relatórios personalizados na palma da sua mão](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Gráficos e mapas. Corrdenadas de GPS do local afateado"
         icon: fas fa-laptop
       - title: "[Análises estatísticas](https://wa.me/message/6XYV3TT2NBXEO1)"
@@ -115,11 +115,11 @@ en: &DEFAULT_EN
         image: assets/img/team/Maria.jpeg
         social:
           - url: https://wa.me/message/6XYV3TT2NBXEO1
-            icon: fa-brands fa-whatsapp 
+            icon: "fa-brands fa-whatsapp" 
           - url: https://www.instagram.com/mariamarquesadm/
             icon: "fab fa-instagram"
           - url: https://www.linkedin.com/in/mariamarquesadm/
-            icon: fab fa-linkedin-in
+            icon: "fab fa-linkedin-in"
       - name: "Yuri A. Gelsleichter"
         role: "Engenheiro Ambinetal, coordenador dos projetos em sensoriameno remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
         image: assets/img/team/Yuri.jpeg
@@ -127,11 +127,11 @@ en: &DEFAULT_EN
           - url: https://www.instagram.com/oficina_do_r/
             icon: "fab fa-instagram"
           - url: https://twitter.com/Y_gelsleichter
-            icon: fab fa-twitter
+            icon: "fab fa-twitter"
           - url: https://www.facebook.com/yuri.gelsleichter
-            icon: fab fa-facebook-f
+            icon: "fab fa-facebook-f"
           - url: https://www.linkedin.com/in/yurigelsleichter/
-            icon: fab fa-linkedin-in
+            icon: "fab fa-linkedin-in"
       - name: "Elias Mendes Costa"
         role: "Agrônomo, coordenador de projetos em estatítica aplicada, design experimental, mapeamento de solos e cientista de dados"
         image: assets/img/team/Elias.jpg
@@ -141,9 +141,9 @@ en: &DEFAULT_EN
          # - url: https://twitter.com
          #   icon: fab fa-twitter
           - url: https://www.facebook.com/elias.mendes.98
-            icon: fab fa-facebook-f
+            icon: "fab fa-facebook-f"
           - url: https://www.linkedin.com/in/elias-mendes-costa-3ba13614b/
-            icon: fab fa-linkedin-in
+            icon: "fab fa-linkedin-in"
 
   contact:
     title: "Contato"
@@ -163,6 +163,8 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
+      - url: https://wa.me/message/6XYV3TT2NBXEO1
+        icon: "fa-brands fa-whatsapp" 
       - url: https://twitter.com/Data_Situ
         icon: "fab fa-twitter"
       - url: https://www.facebook.com/profile.php?id=100092645845656
