@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "[Análises estatísticas](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Testes de amostragem, calagem para correção de pH, indicação para aplicação localizada de fertilizantes"
-        icon: fa-solid fa-chart-column 
+        icon: fas fa-solid fa-chart-column 
       - title: "teste"
         desc: "Testes"
-        icon: fa-brands fa-whatsapp
+        icon: fas fa-brands fa-whatsapp
 
   portfolio:
     title: "Estudos de caso"
