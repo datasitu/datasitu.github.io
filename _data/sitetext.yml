@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[Monitoramento de cultura](https://wa.me/message/6XYV3TT2NBXEO1)"
-        desc: "Identifique probemas no solo, água, fertilidade, pragas, doenças, etc; quinzenal ou mensal"
+        desc: "Identifique probemas no solo, água, fertilidade, pragas, doenças; quinzenal ou mensal"
         icon: fas fa-solid fa-satellite #find more at https://fontawesome.com/icons
       - title: "[Relatórios personalizados na palma da sua mão](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Gráficos e mapas. Coordenadas de GPS do local afateado"
