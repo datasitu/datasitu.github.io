@@ -45,6 +45,9 @@ en: &DEFAULT_EN
         # from https://fontawesome.com/icons page: "fa-brands fa-whatsapp" adjusted: "fab fa-whatsapp"
         # from https://fontawesome.com/icons page: "fa-solid fa-cloud-sun" adjusted: "fas fa-solid fa-cloud-sun"
         # fas fa-laptop ; fas fa-solid fa-book
+        # https://fontawesome.com/icons usa Font-Awesome 6
+        # Esse jekyll template usa Font-Awesome 5 que pode ser encontrada no site https://preview.keenthemes.com abaixo:
+        # https://preview.keenthemes.com/metronic/demo4/features/icons/fontawesome5.html
                               
   portfolio:
     title: "Estudos de caso"
