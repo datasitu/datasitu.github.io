@@ -9,29 +9,7 @@ title: Notas Técnicas
 
 Imagem:https://blog.sensix.ag/
 
-1
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-2
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-3
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-4
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-
-6
-<center><img src="https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp" width="200" height="400" />
-
-
-
-treste 
-7
-<img src="https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp" width=10% height=10%>
-
-
+<img src="https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp" width=50% height=50%>
 
 A agricultura de precisão é uma abordagem inovadora que utiliza tecnologias avançadas para melhorar a eficiência no uso de insumos agrícolas, reduzir custos e minimizar impactos ambientais.
 A agricultura de precisão baseia-se no monitoramento detalhado e na análise de informações relacionadas às características do solo, clima, culturas, pragas e doenças, por meio do uso de sensores, sistemas de posicionamento global (GPS), imagens de satélite, drones e softwares específicos. Esses dados são coletados em tempo real e permitem aos agricultores tomarem decisões mais embasadas e assertivas, resultando em um manejo mais preciso das áreas de cultivo.
