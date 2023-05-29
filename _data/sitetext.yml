@@ -161,7 +161,7 @@ en: &DEFAULT_EN
     submit: "Em desenvolvimento" # "Enviar"
     
   footer:
-    legal: "CNPJ | endereço | email"
+    legal: "Endereço | email | CNPJ"
     social:
       - url: https://www.datasitu.com/Contato
         icon: "fas fa-solid fa-envelope"
