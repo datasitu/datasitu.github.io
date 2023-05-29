@@ -18,7 +18,7 @@ url    : "http://datasitu.com/" # the base hostname & protocol for your site, e.
 baseurl: "/"
 # baseurl: "/home" # the subpath of your site, e.g. /blog
 
-title      : Data Situ
+title      : Data Situ ++
 email      : https://formspree.io/f/mqkoowny # datasitu@gmail.com #this is also the email contact forms will go to
 description: "Monitoramento ambiental para agricultura de precisão"
 author     : Yuri Gelsleichter
