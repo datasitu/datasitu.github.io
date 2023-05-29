@@ -163,7 +163,7 @@ en: &DEFAULT_EN
   footer:
     legal: "CNPJ"
     social:
-      - url: https://wa.me/message/6XYV3TT2NBXEO1
+      - url: mailto:datasitu@gmail.com
         icon: "fas fa-solid fa-envelope"
       - url: https://wa.me/message/6XYV3TT2NBXEO1
         icon: "fas fa-solid fa-phone"
