@@ -16,7 +16,7 @@ Ao valorizar o carbono armazenado no solo, você pode atrair investimentos de em
 Não perca a oportunidade de impulsionar sua organização para a frente, garantindo a preservação ambiental e aproveitando as vantagens financeiras do mercado de carbono. Entre em contato conosco hoje mesmo para saber mais sobre nossos serviços de mapeamento de solos e monitoramento ambiental e descubra como podemos ajudar você a aproveitar o potencial do solo como reservatório de carbono.
 
 **Localização do estudo de caso**
-![image](https://github.com/datasitu/datasitu.github.io/assets/134561525/d3939d3c-5af0-41bf-974a-f2a352d59618){width=50%}
+![image](https://github.com/datasitu/datasitu.github.io/assets/134561525/d3939d3c-5af0-41bf-974a-f2a352d59618)
 
 
 
