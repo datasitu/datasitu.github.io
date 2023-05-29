@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-satellite #find more at https://fontawesome.com/icons
       - title: "[Dados Meteorológicos](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Consulta a séries históricas de dados meteorológicos para análise e organização de dados, visando o planejamento agrícola. Utilização de dados climáticos da fazenda, incluindo mapas climáticos, para compreender a variabilidade climática e seu impacto na produção agrícola."
-        icon: fa-duotone fa-cloud-sun fa-fade
+        icon: fas fa-duotone fa-cloud-sun fa-fade # fab fa-whatsapp (ok) fa-brands fa-whatsapp (not ok, from page)
       - title: "[Mapas de fertilidade e AP (Adubação de Precisão)](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Ambiente para visualizar todos os elementos de fertilidade do solo, como nutrientes, pH e matéria orgânica, por meio de mapas gerados a partir de análises laboratoriais e técnicas de sensoriamento remoto. Relatório de interpretação dos resultados das análises de fertilidade do solo, auxiliando os agricultores na compreensão das necessidades de cada talhão e na tomada de decisões de manejo. Cálculo e mapas de prescrição de adubação de precisão, indicando as quantidades e locais específicos onde os fertilizantes devem ser aplicados, considerando as variabilidades espaciais das necessidades das plantas."
         icon: fas fa-solid fa-book
