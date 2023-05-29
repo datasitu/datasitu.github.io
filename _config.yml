@@ -43,4 +43,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
- # - jekyll-formspree
+  - jekyll-formspree
