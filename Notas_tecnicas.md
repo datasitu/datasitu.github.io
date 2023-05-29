@@ -9,6 +9,13 @@ title: Notas Técnicas
 
 Imagem:https://blog.sensix.ag/
 
+
+<div style="width: 60%; height: 60%">
+  
+  ![Link](https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp "AP")
+  
+</div>
+
 A agricultura de precisão é uma abordagem inovadora que utiliza tecnologias avançadas para melhorar a eficiência no uso de insumos agrícolas, reduzir custos e minimizar impactos ambientais.
 A agricultura de precisão baseia-se no monitoramento detalhado e na análise de informações relacionadas às características do solo, clima, culturas, pragas e doenças, por meio do uso de sensores, sistemas de posicionamento global (GPS), imagens de satélite, drones e softwares específicos. Esses dados são coletados em tempo real e permitem aos agricultores tomarem decisões mais embasadas e assertivas, resultando em um manejo mais preciso das áreas de cultivo.
 Um dos principais pilares da agricultura de precisão é o manejo localizado, que consiste na aplicação de insumos agrícolas, como fertilizantes e defensivos, de forma específica e personalizada em diferentes áreas da lavoura. Isso é possível graças à capacidade de identificar variações nas condições do solo e nas necessidades das plantas em diferentes pontos do talhão.
