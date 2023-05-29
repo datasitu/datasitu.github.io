@@ -81,7 +81,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: left
-    end: <a href="http://example.com/" style="color:#000000">Fale conosco</a>
+    end: <a href="https://wa.me/message/6XYV3TT2NBXEO1" style="color:#000000">Fale conosco</a> <br> <a href="https://wa.me/message/6XYV3TT2NBXEO1" style="color:#0c1aad">Clique aqui</a>
 
   about:
     title: "Sobre"
