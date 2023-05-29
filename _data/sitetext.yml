@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Serviços"
-    text: "Do tamanho da sua demanda"
+    text: "Do jeito que você precisa"
     section: services
     list:
       - title: "[Monitoramento de cultura](https://wa.me/message/6XYV3TT2NBXEO1)"
