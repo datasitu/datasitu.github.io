@@ -163,10 +163,10 @@ en: &DEFAULT_EN
   footer:
     legal: "CNPJ"
     social:
-      - url: <mailto:datasitu@gmail.com>
+      - url: <datasitu@gmail.com>
         icon: "fas fa-solid fa-envelope"
       - url: https://wa.me/message/6XYV3TT2NBXEO1
-        icon: "fa-brands fa-square-whatsapp"
+        icon: "fas fa-brands fa-square-whatsapp"
       - url: https://wa.me/message/6XYV3TT2NBXEO1
         icon: "fas fa-solid fa-phone"
       - url: https://twitter.com/Data_Situ
