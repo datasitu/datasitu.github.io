@@ -145,10 +145,10 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/elias-mendes-costa-3ba13614b/
             icon: "fab fa-linkedin-in"
 
-  contact:
-    title: "Contato"
-    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 21 99853-0064"
-    section: contact
+  #contact:
+    #title: "Contato"
+    #text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 21 99853-0064"
+    #section: contact
     #name: "Nome*"
     #name-validation: "Por favor preencha seu nome."
     #email: "Email*"
