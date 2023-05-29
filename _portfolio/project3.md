@@ -1,11 +1,11 @@
 ---
-title: Aplicação e Importância dos Índices de Vegetação e Solo para o Monitoramento de Culturas Agrícolas
+title: Importância dos Índices de Vegetação e Solo para o Monitoramento de Culturas Agrícolas
 subtitle: Identifique problemas de antemão e evite perdas; estratégica dos índices NDVI, GVI, LAI, SWI e SEI para Agricultura de Precisão
 image: assets/img/portfolio/Pivo1.png
 alt: 
 
 caption:
-  title: Aplicação e Importância dos Índices de Vegetação e Solo para o Monitoramento de Culturas Agrícolas
+  title: Importância dos Índices de Vegetação e Solo para o Monitoramento de Culturas Agrícolas
   subtitle: Identifique problemas de antemão e evite perdas; estratégica dos índices NDVI, GVI, LAI, SWI e SEI para Agricultura de Precisão
   thumbnail: assets/img/portfolio/Pivo1.png
 ---
