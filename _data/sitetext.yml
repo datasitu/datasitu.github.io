@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fas fa-regular fa-map
       - title: "[Relatórios](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Confecção de relatórios técnicos e científicos na área de sensoriamento remoto e agricultura de precisão, consolidando as informações e análises realizadas para auxiliar os agricultores na tomada de decisõesConfecção de relatórios técnicos e científicos com experimentação agrícola, teste de produtos, fertilizantes, cultivares e manejos, fornecendo informações detalhadas sobre os resultados obtidos e as melhores práticas agrícolas."
-        icon: far fa-file-al
+        icon: far fa-file-alt
       - title: "[Consultoria](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Consultoria em Agricultura de Precisão, oferecendo suporte técnico e orientação para a adoção de práticas e tecnologias avançadas no manejo agrícola. Consultoria em análise agrícola ambiental, auxiliando os agricultores na interpretação dos dados coletados e no desenvolvimento de estratégias de manejo sustentável.Consultoria em gerenciamento de dados e desenvolvimento de soluções específicas, fornecendo orientação sobre como coletar, armazenar, organizar e analisar dados agrícolas para obter insights valiosos para o negócio."
         icon: fas fa-battery-three-quarters 
