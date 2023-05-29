@@ -19,7 +19,7 @@ baseurl: "/"
 # baseurl: "/home" # the subpath of your site, e.g. /blog
 
 title      : Data Situ
-email      : datasitu@gmail.com #this is also the email contact forms will go to
+email      : https://formspree.io/f/mqkoowny # datasitu@gmail.com #this is also the email contact forms will go to
 description: "Monitoramento ambiental para agricultura de precisão"
 author     : Yuri Gelsleichter
 # logo:     #optional, defaults to site title
