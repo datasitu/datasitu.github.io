@@ -44,7 +44,7 @@ en: &DEFAULT_EN
         # Source: https://www.angularfix.com/2022/03/how-do-i-fix-sticky-social-icon-that-is.html
         # from https://fontawesome.com/icons page: "fa-brands fa-whatsapp" adjusted: "fab fa-whatsapp"
         # from https://fontawesome.com/icons page: "fa-solid fa-cloud-sun" adjusted: "fas fa-solid fa-cloud-sun"
-        # fas fa-laptop 
+        # fas fa-laptop ; fas fa-solid fa-book
                               
   portfolio:
     title: "Estudos de caso"
