@@ -16,3 +16,7 @@
 
 <mailto:datasitu@gmail.com>
 
+
+<a href="mailto:datasitu@gmail.com">Email me</a>
+
+
