@@ -9,8 +9,6 @@ title: Notas Técnicas
 
 Imagem:https://blog.sensix.ag/
 
-<img src="https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp" width=50% height=50%>
-
 A agricultura de precisão é uma abordagem inovadora que utiliza tecnologias avançadas para melhorar a eficiência no uso de insumos agrícolas, reduzir custos e minimizar impactos ambientais.
 A agricultura de precisão baseia-se no monitoramento detalhado e na análise de informações relacionadas às características do solo, clima, culturas, pragas e doenças, por meio do uso de sensores, sistemas de posicionamento global (GPS), imagens de satélite, drones e softwares específicos. Esses dados são coletados em tempo real e permitem aos agricultores tomarem decisões mais embasadas e assertivas, resultando em um manejo mais preciso das áreas de cultivo.
 Um dos principais pilares da agricultura de precisão é o manejo localizado, que consiste na aplicação de insumos agrícolas, como fertilizantes e defensivos, de forma específica e personalizada em diferentes áreas da lavoura. Isso é possível graças à capacidade de identificar variações nas condições do solo e nas necessidades das plantas em diferentes pontos do talhão.
@@ -20,7 +18,7 @@ A importância do manejo localizado na agricultura de precisão pode ser resumid
 - *Melhoria da produtividade*. A aplicação de insumos de acordo com as necessidades específicas das plantas resulta em um melhor desenvolvimento vegetal, maior rendimento e qualidade dos produtos agrícolas. O manejo localizado possibilita maximizar o potencial produtivo de cada área da lavoura, levando em consideração as variações do solo e outros fatores relevantes.
 - *Tomada de decisão embasada*. Com o auxílio de tecnologias de agricultura de precisão, os agricultores têm acesso a dados e informações precisas sobre suas lavouras. Essas informações permitem uma tomada de decisão mais embasada e orientada por dados, o que favorece a adoção de práticas mais eficientes e sustentáveis.
 
-[Fale conosco](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
+[Fale conosco](https://wa.me/message/6XYV3TT2NBXEO1)
 
 
 **Agronegócio e geração de emprego e renda para o Brasil**
@@ -30,6 +28,7 @@ O agronegócio brasileiro desempenha um papel fundamental no crescimento econôm
 De acordo com as Projeções do Agronegócio para o Brasil 2019/20 a 2029/30, as exportações do agronegócio brasileiro acumularam um total de US$ 35.950.053.973 nos primeiros meses de 2023. Esse dado demonstra o potencial pujante do setor e confirma sua importância para a balança comercial do país.
 
 Nos últimos três anos, o agronegócio tem se destacado, ultrapassando a marca de 100 bilhões de dólares em exportações, como mostrado na Figura 1. Esse desempenho ressalta a relevância do agronegócio para a economia brasileira e sua posição de destaque no mercado global. O setor tem sido um dos pilares do comércio exterior do Brasil, impulsionando a entrada de divisas e contribuindo para a estabilidade econômica.
+
 ![image](https://github.com/datasitu/datasitu.github.io/assets/134561525/fcf95171-8660-423c-bf6d-902e9b7fcf49)
 
 *Figura 1. Balança Comercial do Agronegócio – Série Histórica (US$ bilhões), para 2023 referente ao acumulado de janeiro a março/2023. Fonte: Agrostat/Mapa*
@@ -44,4 +43,4 @@ Dessa forma, o agronegócio brasileiro se consolida como um dos pilares da econo
 
 Potencialize seu agronegócio com o monitoramento agrícola de lavouras da Data Situ e ganhe uma vantagem competitiva decisiva. Tenha acesso imediato a dados precisos e informações estratégicas que permitirão tomadas de decisão ágeis e eficientes. Com nossa tecnologia avançada, você estará um passo à frente, antecipando problemas, identificando oportunidades e agindo rapidamente para maximizar seus resultados. Não deixe as incertezas prejudicarem seu progresso. Conte com nosso monitoramento para uma gestão eficaz e inteligente. Garanta o sucesso do seu agronegócio e colha os frutos de decisões estratégicas fundamentadas em informações atualizadas e confiáveis. Você ainda pode contar com experiiênca em consultoria agronômica com ênfase nas culturas de soja, milho e algodão. 
 
-[Fale conosco](https://api.whatsapp.com/message/6XYV3TT2NBXEO1?autoload=1&app_absent=0)
+[Fale conosco](https://wa.me/message/6XYV3TT2NBXEO1)
