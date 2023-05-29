@@ -24,6 +24,7 @@ en: &DEFAULT_EN
       - title: "[Monitoramento Remoto por imagens de Satélite](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Utilização de imagens de satélite para monitorar a saúde das plantas, identificar problemas de pragas e doenças, e avaliar a produtividade agrícola. Monitoramento de pragas e doenças por meio da análise das imagens de satélite, permitindo a detecção precoce e o controle eficiente desses problemas. Ambiente de visualização dos mapas de pragas e doenças, onde os agricultores podem acessar as informações atualizadas sobre a distribuição e intensidade desses problemas em suas lavouras. Utilização de imagens de média e alta resolução espacial para capturar detalhes precisos das plantas e do ambiente agrícola. Alta periodicidade das imagens de satélite, permitindo um acompanhamento contínuo das condições agrícolas e uma resposta rápida a possíveis problemas."
         icon: fas fa-solid fa-satellite 
+        link: "https://wa.me/message/6XYV3TT2NBXEO1"
       - title: "[Dados Meteorológicos](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Consulta a séries históricas de dados meteorológicos para análise e organização de dados, visando o planejamento agrícola. Utilização de dados climáticos da fazenda, incluindo mapas climáticos, para compreender a variabilidade climática e seu impacto na produção agrícola."
         icon: fas fa-solid fa-cloud-sun
@@ -65,7 +66,7 @@ en: &DEFAULT_EN
       - title: "Ser rápido na identificação do problema"
         # year: ""
         desc: "Uma das maneiras mais eficazes de manter a sua cultura forte a saudável é idenficando o problema de forma rápida para resolver imediatamente."
-        image: assets/img/timeline/sat1.JPG
+        image: "[assets/img/timeline/sat1.JPG](https://wa.me/message/6XYV3TT2NBXEO1)"
         alt: 
       - title: "Água em manejo eficiente"
         # year: ""
