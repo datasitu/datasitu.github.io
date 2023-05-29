@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Aumente a sua produtividade com agricultura de precisão 
-    text: É uma satisfação atender você
-    button: Fale conosco <br> (whatsapp)
+    title: "Aumente a sua produtividade com agricultura de precisão" 
+    text: "É uma satisfação atender você"
+    button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
   services:
