@@ -37,7 +37,7 @@ collections:
 markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://formspree.io/f/mqkoowny
+Details: https://formspree.io/f/mqkoowny
 # formspree_form_path: _includes/contact-form.html
 # formspree_form_path: _includes/contact.html
 
