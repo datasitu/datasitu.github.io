@@ -14,3 +14,5 @@
 
 [Instagram](https://www.instagram.com/datasitu/)
 
+<mailto:datasitu@gmail.com>
+
