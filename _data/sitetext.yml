@@ -40,7 +40,7 @@ en: &DEFAULT_EN
         desc: "Palestras e treinamentos para garantir o melhor retorno e máxima produtividade na adoção de tecnologias de monitoramento agrícola e agricultura de precisão. Palestras em gestão de dados e organização da propriedade rural, capacitando os agricultores no gerenciamento eficiente das informações agrícolas, como registros de plantio, colheita, dados climáticos e análises de solo. Treinamento em análise e processamento de dados usando linguagem de programação R, fornecendo habilidades essenciais para a manipulação e interpretação de dados agrícolas, permitindo uma análise mais aprofundada e precisa. Capacitação em técnicas de sensoriamento remoto e interpretação de imagens de satélite, para que os agricultores possam utilizar de forma eficaz as informações obtidas por essas tecnologias no monitoramento e manejo de suas lavouras. Treinamento específico em fertilidade e manejo do solo, abordando aspectos como amostragem de solo, interpretação de análises laboratoriais e estratégias de adubação adequadas às necessidades das culturas."
         icon: fas fa-brain
         
-        # Depending on which version of Font-Awesome you are using you may need to use fab or fa-brands instead of fa.
+        # Depending on which version of Font-Awesome you are using you may need to use fab or fa-brands instead of fa
         # Source: https://www.angularfix.com/2022/03/how-do-i-fix-sticky-social-icon-that-is.html
         # from https://fontawesome.com/icons page: "fa-brands fa-whatsapp" adjusted: "fab fa-whatsapp"
         # from https://fontawesome.com/icons page: "fa-solid fa-cloud-sun" adjusted: "fas fa-solid fa-cloud-sun"
