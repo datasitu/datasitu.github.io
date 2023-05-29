@@ -5,7 +5,8 @@ gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  # gem "jekyll-formspree" ### Add by Yuri
+  # gem "jekyll-formspree", "~> 1.0.2" ### add by Yuri
+  gem "jekyll-formspree" ### Add by Yuri
   # gem "github-pages" # https://github.com/github/pages-gem
 end
 
