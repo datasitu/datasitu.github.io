@@ -5,7 +5,7 @@ title: Notas Técnicas
 
 **Agricultura de Precisão e a Importância do Manejo Localizado**
 
-![Link](https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp "AP"){width=20%}
+![Link](https://blog.sensix.ag/wp-content/uploads/2023/05/economia-na-lavoura-com-ap-1200x600-1-1170x600.webp "AP"){height=2in}
 
 Imagem:https://blog.sensix.ag/
 
