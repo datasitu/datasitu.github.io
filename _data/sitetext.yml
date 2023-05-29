@@ -155,7 +155,7 @@ en: &DEFAULT_EN
     email-validation: "Por favor preencha seu endereço de email."
     phone: "Em desenvolvimento" # "Número de telefone"
     phone-validation: "Por favor preencha seu nome número de telefone."
-    message: "Em desenvolvimento, envie email pelo ícone de carta abaixo" # "Mensagem*"
+    message: "Em desenvolvimento, envie email diretamente pelo ícone de carta" # "Mensagem*"
     message-validation: "Por favor escreva a mensagem."
     subject: "Contact Form Submission"
     submit: "Em desenvolvimento" # "Enviar"
