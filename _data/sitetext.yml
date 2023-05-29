@@ -160,7 +160,7 @@ en: &DEFAULT_EN
     #subject: "Contact Form Submission"
     #submit: "Enviar"
     
-  footer: "footter test message"
+  footer:
     legal: "CNPJ"
     social:
       - url: https://wa.me/message/6XYV3TT2NBXEO1
