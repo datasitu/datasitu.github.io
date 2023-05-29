@@ -32,10 +32,10 @@ en: &DEFAULT_EN
         icon: fas fa-regular fa-map
       - title: "[Relatórios](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Confecção de relatórios técnicos e científicos na área de sensoriamento remoto e agricultura de precisão, consolidando as informações e análises realizadas para auxiliar os agricultores na tomada de decisõesConfecção de relatórios técnicos e científicos com experimentação agrícola, teste de produtos, fertilizantes, cultivares e manejos, fornecendo informações detalhadas sobre os resultados obtidos e as melhores práticas agrícolas."
-        icon: fas fa-book-atlas
+        icon: fa-solid fa-book-atlas
       - title: "[Consultoria](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Consultoria em Agricultura de Precisão, oferecendo suporte técnico e orientação para a adoção de práticas e tecnologias avançadas no manejo agrícola. Consultoria em análise agrícola ambiental, auxiliando os agricultores na interpretação dos dados coletados e no desenvolvimento de estratégias de manejo sustentável.Consultoria em gerenciamento de dados e desenvolvimento de soluções específicas, fornecendo orientação sobre como coletar, armazenar, organizar e analisar dados agrícolas para obter insights valiosos para o negócio."
-        icon: fas fa-laptop-file
+        icon: fa-solid fa-laptop-file
       - title: "[Treinamento](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: "Palestras e treinamentos para garantir o melhor retorno e máxima produtividade na adoção de tecnologias de monitoramento agrícola e agricultura de precisão. Palestras em gestão de dados e organização da propriedade rural, capacitando os agricultores no gerenciamento eficiente das informações agrícolas, como registros de plantio, colheita, dados climáticos e análises de solo. Treinamento em análise e processamento de dados usando linguagem de programação R, fornecendo habilidades essenciais para a manipulação e interpretação de dados agrícolas, permitindo uma análise mais aprofundada e precisa. Capacitação em técnicas de sensoriamento remoto e interpretação de imagens de satélite, para que os agricultores possam utilizar de forma eficaz as informações obtidas por essas tecnologias no monitoramento e manejo de suas lavouras. Treinamento específico em fertilidade e manejo do solo, abordando aspectos como amostragem de solo, interpretação de análises laboratoriais e estratégias de adubação adequadas às necessidades das culturas."
         icon: fab fa-leanpub
