@@ -161,12 +161,12 @@ en: &DEFAULT_EN
     submit: "Em desenvolvimento" # "Enviar"
     
   footer:
-    legal: "CNPJ"
+    legal: "CNPJ | endereço | email"
     social:
       - url: https://www.datasitu.com/Contato
         icon: "fas fa-solid fa-envelope"
       - url: https://wa.me/message/6XYV3TT2NBXEO1
-        icon: "fab fa-whatsapp fa-xl"
+        icon: "fab fa-whatsapp fa-2xl"
       #- url: +5521998530064
        # icon: "fas fa-solid fa-phone"
       - url: https://twitter.com/Data_Situ
