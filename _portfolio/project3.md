@@ -9,7 +9,7 @@ caption:
   subtitle: Identifique problemas de antemão e evite perdas; estratégia de uso dos índices NDVI, GVI, LAI, SWI e SEI para Agricultura de Precisão
   thumbnail: assets/img/portfolio/Pivo1.png
 ---
-O monitoramento de culturas é uma ferramenta muito rápida para identificar problemas como stress hídrico, estagnação de água, pragas e doenças, e falta de nutrientas.
+O monitoramento de culturas é uma ferramenta muito rápida para identificar problemas como estresse hídrico, estagnação de água, pragas e doenças, e falta de nutrientes.
 Ainda auxilia na agricultura de precisão evitando aplicações desnecessaŕias e consequentemente contribuindo para o saldo positivo.
 
 A aplicação de índices de vegetação e solo na monitorização de culturas desempenha um papel crítico e traz uma série de benefícios importantes para a agricultura de precisão.
