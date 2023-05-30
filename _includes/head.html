@@ -1,15 +1,14 @@
 <head>
   {% if site.analytics.google %}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google }}"></script>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics (add Yuri Maria) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JFMK0Q4P5C"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-    gtag("config", "{{ site.analytics.google }}");
+    gtag('config', 'G-JFMK0Q4P5C');
   </script>
   <!-- End Google Analytics -->
   {% endif %}
