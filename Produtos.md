@@ -27,6 +27,6 @@
 
 **Fale conosco:**
 
-[whatapp](https://wa.me/message/6XYV3TT2NBXEO1)
+[WhatsApp](https://wa.me/message/6XYV3TT2NBXEO1)
 
 [Email: datasitu@gmail.com](mailto:datasitu@gmail.com)
