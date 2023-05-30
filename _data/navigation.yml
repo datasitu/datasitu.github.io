@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Serviços"
+    - title: "Soluções"
       section: services
     - title: "Estudos de caso"
       section: portfolio
@@ -23,6 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contato"
       section: contact
+    - title: "Produtos"
+      url: Produtos
     - title: "Notas técnicas"
       url: Notas_tecnicas
     - title: "Whatsapp"
