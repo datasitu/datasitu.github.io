@@ -66,13 +66,13 @@ en: &DEFAULT_EN
     events:
       - title: "Ser rápido na identificação do problema"
         # year: ""
-        desc: "Uma das maneiras mais eficazes de manter a sua cultura forte a saudável é idenficando o problema de forma rápida para resolver imediatamente."
+        desc: "Uma das maneiras mais eficazes de manter a sua cultura forte e saudável é identificando o problema de forma rápida para resolvê-lo imediatamente."
         image: assets/img/timeline/sat1.JPG # sugestão do GPT para hiperlink do icone, mas não funciona # "![assets/img/timeline/sat1.JPG](https://wa.me/message/6XYV3TT2NBXEO1)"
         alt: 
         # link: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
       - title: "Água em manejo eficiente"
         # year: ""
-        desc: "Água é fundamental para qualquer cultura, no entanto a falta ou excesso podem prejudicar o crescimento vegetal, o cruzamento de dados de sensoriamento remoto com outras camadas de informação como topografia podem trazer informaçãoes valisos para o manejo."
+        desc: "Água é fundamental para qualquer cultura, no entanto a falta ou excesso podem prejudicar o crescimento vegetal, o cruzamento de dados de sensoriamento remoto com outras camadas de informação, como topografia, pode trazer informações valiosas para o manejo."
         image: assets/img/timeline/water2.jpeg # sugestão do GPT para hiperlink do icone (sem aspas), mas não funciona # ![assets/img/timeline/water2.jpeg](https://wa.me/message/6XYV3TT2NBXEO1)
         alt: 
         # url: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
@@ -143,7 +143,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/mariamarquesadm/
             icon: "fab fa-linkedin-in"
       - name: "Yuri A. Gelsleichter"
-        role: "Engenheiro Ambinetal, coordenador dos projetos em sensoriameno remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
+        role: "Engenheiro Ambiental, coordenador dos projetos em sensoriamento remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
         image: assets/img/team/Yuri.jpeg
         social:
           - url: https://www.instagram.com/oficina_do_r/
@@ -155,7 +155,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/yurigelsleichter/
             icon: "fab fa-linkedin-in"
       - name: "Elias Mendes Costa"
-        role: "Engenheiro Agrônomo, coordenador de projetos em experimetação agrícola e análise de dados agronômicos, agricultura de precisão e manejo localizado, novas tecnologias para grandes culturas"
+        role: "Engenheiro Agrônomo, coordenador de projetos em experimentação agrícola e análise de dados agronômicos, agricultura de precisão e manejo localizado, novas tecnologias para grandes culturas"
         image: assets/img/team/Elias.jpg
         social:
           - url: https://www.instagram.com/eliasmendescosta/
