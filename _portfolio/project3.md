@@ -1,12 +1,12 @@
 ---
 title: Importância dos Índices de Vegetação para Monitoramento de Culturas Agrícolas e Solo
-subtitle: Identifique problemas de antemão e evite perdas; estratégica dos índices NDVI, GVI, LAI, SWI e SEI para Agricultura de Precisão
+subtitle: Identifique problemas de antemão e evite perdas; estratégia de uso dos índices NDVI, GVI, LAI, SWI e SEI para Agricultura de Precisão
 image: assets/img/portfolio/Pivo1.png
 alt: 
 
 caption:
   title: Importância dos Índices de Vegetação para Monitoramento de Culturas Agrícolas e Solo
-  subtitle: Identifique problemas de antemão e evite perdas; estratégica dos índices NDVI, GVI, LAI, SWI e SEI para Agricultura de Precisão
+  subtitle: Identifique problemas de antemão e evite perdas; estratégia de uso dos índices NDVI, GVI, LAI, SWI e SEI para Agricultura de Precisão
   thumbnail: assets/img/portfolio/Pivo1.png
 ---
 O monitoramento de culturas é uma ferramenta muito rápida para identificar problemas como stress hídrico, estagnação de água, pragas e doenças, e falta de nutrientas.
