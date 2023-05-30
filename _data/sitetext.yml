@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
   services:
-    title: "Serviços"
+    title: "Soluções"
     text: "Do jeito que você precisa"
     section: services
     list:
