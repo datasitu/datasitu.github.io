@@ -40,7 +40,7 @@ markdown: kramdown
 # Details: https://formspree.io/f/mqkoowny
 # formspree_form_path: _includes/contact.html ### not working ###
 # formspree_form_id: mqkoowny
-formspree_form_path: https://formspree.io/f/mqkoowny
+formspree_form_path: f/mqkoowny
 
 plugins:
   - jekyll-remote-theme
