@@ -169,18 +169,18 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contato"
-    text: "Envie mensagem pelo formulário, diretamente pelo email ou ligue para +55 21 99853-0064"
+    text: "Envie mensagem pelo formulário, contate-nos via email ou ligue para +55 21 99853-0064"
     section: contact
-    name: "Em desenvolvimento" # "Nome*"
+    name: "Nome*"
     name-validation: "Por favor preencha seu nome."
-    email: "Em desenvolvimento" # "Email*"
+    email: "Email*"
     email-validation: "Por favor preencha seu endereço de email."
-    phone: "Em desenvolvimento" # "Número de telefone"
+    phone: "Número de telefone"
     phone-validation: "Por favor preencha seu nome número de telefone."
-    message: "Em desenvolvimento, envie email diretamente pelo ícone de carta" # "Mensagem*"
+    message: "Mensagem*"
     message-validation: "Por favor escreva a mensagem."
     subject: "Contact Form Submission"
-    submit: "Em desenvolvimento" # "Enviar"
+    submit: "Enviar"
     
   footer:
     legal: "Endereço | email | CNPJ"
