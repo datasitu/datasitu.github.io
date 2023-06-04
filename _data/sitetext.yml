@@ -125,6 +125,9 @@ en: &DEFAULT_EN
       - title: "MATE"
         url: https://uni-mate.hu/
         logo: assets/img/clients/logo_mate.jpeg
+      - title: "UniSul"
+        url: https://www.unisul.br/
+        logo: assets/img/clients/UniSul_logo.png
 
   team:
     title: "Equipe"
