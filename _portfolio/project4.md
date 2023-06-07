@@ -13,7 +13,7 @@ Desbloqueie o potencial do solo como reservatório de carbono e aproveite os ben
 
 Ao valorizar o carbono armazenado no solo, você pode atrair investimentos de empresas comprometidas com a compensação de emissões de gases de efeito estufa. Nossos serviços de mapeamento de solos e monitoramento ambiental são fundamentais para quantificar e monitorar o carbono do solo, fornecendo dados precisos e confiáveis que podem ser usados para obter créditos de carbono. Além disso, direcionar esses recursos para ações de conservação, pesquisa e educação ambiental fortalece sua imagem como líder em gestão ambientalmente responsável.
 
-Não perca a oportunidade de impulsionar sua organização para a frente, garantindo a preservação ambiental e aproveitando as vantagens financeiras do mercado de carbono. Entre em contato conosco hoje mesmo para saber mais sobre nossos serviços de mapeamento de solos e monitoramento ambiental e descubra como podemos ajudar você a aproveitar o potencial do solo como reservatório de carbono.
+Não perca a oportunidade de impulsionar sua organização para a frente, garantindo a preservação ambiental e aproveitando as vantagens financeiras do mercado de carbono. Entre em contato conosco hoje mesmo para saber mais sobre nossos serviços de mapeamento de solos e monitoramento ambiental e descubra como podemos ajudar você a aproveitar o potencial do solo como reservatório de carbono. 
 
 **Localização do estudo de caso**
 ![image](https://github.com/datasitu/datasitu.github.io/assets/134561525/d3939d3c-5af0-41bf-974a-f2a352d59618)
