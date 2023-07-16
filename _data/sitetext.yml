@@ -22,7 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[Monitoramento Remoto por imagens de Satélite](https://wa.me/message/6XYV3TT2NBXEO1)"
-        desc: "Utilização de imagens de satélite para monitorar a saúde das plantas, identificar problemas de pragas e doenças, e avaliar a produtividade agrícola. Monitoramento de pragas e doenças por meio da análise das imagens de satélite, permitindo a detecção precoce e o controle eficiente desses problemas. Ambiente de visualização dos mapas de pragas e doenças, onde os agricultores podem acessar as informações atualizadas sobre a distribuição e intensidade desses problemas em suas lavouras. Utilização de imagens de média e alta resolução espacial para capturar detalhes precisos das plantas e do ambiente agrícola. Alta periodicidade das imagens de satélite, permitindo um acompanhamento contínuo das condições agrícolas e uma resposta rápida a possíveis problemas."
+        desc: | # this will include new lines to allow paragraphs 
+        xxxxxx Utilização de imagens de satélite para monitorar a saúde das plantas, identificar problemas de pragas e doenças, 
+        e avaliar a produtividade agrícola. Monitoramento de pragas e doenças por meio da análise das imagens de satélite, 
+        permitindo a detecção precoce e o controle eficiente desses problemas. Ambiente de visualização dos mapas de pragas e doenças, 
+        onde os agricultores podem acessar as informações atualizadas sobre a distribuição e intensidade desses problemas em suas lavouras. 
+        Utilização de imagens de média e alta resolução espacial para capturar detalhes precisos das plantas e do ambiente agrícola. 
+        Alta periodicidade das imagens de satélite, permitindo um acompanhamento contínuo das condições agrícolas e uma resposta rápida a possíveis problemas.
         icon: fas fa-solid fa-satellite 
         # url: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
         # link: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
@@ -147,7 +153,7 @@ en: &DEFAULT_EN
             icon: "fab fa-linkedin-in"
       - name: "Yuri A. Gelsleichter"
         role: "Engenheiro Ambiental, coordenador dos projetos em sensoriamento remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
-        image: assets/img/team/Yuri.jpeg
+        image: assets/img/team/Yuri_rosto.png
         social:
           - url: https://www.instagram.com/oficina_do_r/
             icon: "fab fa-instagram"
