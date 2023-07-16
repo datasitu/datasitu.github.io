@@ -27,8 +27,7 @@ en: &DEFAULT_EN
           e avaliar a produtividade agrícola. Monitoramento de pragas e doenças por meio da análise das imagens de satélite, 
           permitindo a detecção precoce e o controle eficiente desses problemas. Ambiente de visualização dos mapas de pragas e doenças, 
           onde os agricultores podem acessar as informações atualizadas sobre a distribuição e intensidade desses problemas em suas lavouras. 
-          
-          Utilização de imagens de média e alta resolução espacial para capturar detalhes precisos das plantas e do ambiente agrícola. 
+          Imagens de média e alta resolução espacial para capturar detalhes precisos das plantas e do ambiente agrícola. 
           Alta periodicidade das imagens de satélite, permitindo um acompanhamento contínuo das condições agrícolas e uma resposta rápida a possíveis problemas.
         icon: fas fa-solid fa-satellite 
         # url: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
@@ -156,12 +155,16 @@ en: &DEFAULT_EN
     body: | # this will include new lines to allow paragraphs 
       Data Situ é uma empresa inovadora em monitoramento ambiental, <br> nasceu da junção entre tecnologia avançada em aprendizado de máquinas e mineração de dados 
       com agricultura de precisão. Viemos da academia com sólido embasamento teórico, mas também com uma vasta experiência em trabalhos práticos. 
+      
       O produto central é uma solução completa de monitoramento via satélite, desenvolvida especificamente para atender às necessidades dos agricultores e 
-      investidores agrícolas que enfrentam o desafio de gerir a agricultura tropical de média a grande extensão. Em um mundo onde as mudanças ambientais são constantes, 
-      os agricultores se deparam com novos desafios diariamente. Essas mudanças não afetam apenas a viabilidade do cultivo, mas também têm um impacto direto na produtividade e 
-      nos rendimentos das lavouras. Nossa missão na Data Situ é fornecer as ferramentas e os insights necessários para que os agricultores possam enfrentar esses desafios 
-      de forma eficaz e sustentável.
+      investidores agrícolas que enfrentam o desafio de gerir a agricultura tropical de média a grande extensão. 
+      
+      Em um mundo onde as mudanças ambientais são constantes, os agricultores se deparam com novos desafios diariamente. Essas mudanças não afetam apenas a 
+      viabilidade do cultivo, mas também têm um impacto direto na produtividade e nos rendimentos das lavouras. Nossa missão na Data Situ é fornecer as ferramentas e 
+      os insights necessários para que os agricultores possam enfrentar esses desafios de forma eficaz e sustentável.
     section: about
+
+    # <br> faz a quebra de linha em html
 
   clients:
     section: clients
