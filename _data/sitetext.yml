@@ -27,6 +27,7 @@ en: &DEFAULT_EN
           e avaliar a produtividade agrícola. Monitoramento de pragas e doenças por meio da análise das imagens de satélite, 
           permitindo a detecção precoce e o controle eficiente desses problemas. Ambiente de visualização dos mapas de pragas e doenças, 
           onde os agricultores podem acessar as informações atualizadas sobre a distribuição e intensidade desses problemas em suas lavouras. 
+          
           Utilização de imagens de média e alta resolução espacial para capturar detalhes precisos das plantas e do ambiente agrícola. 
           Alta periodicidade das imagens de satélite, permitindo um acompanhamento contínuo das condições agrícolas e uma resposta rápida a possíveis problemas.
         icon: fas fa-solid fa-satellite 
@@ -98,33 +99,51 @@ en: &DEFAULT_EN
         # link: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
       - title: "Água em manejo eficiente"
         # year: ""
-        desc: "Água é fundamental para qualquer cultura, no entanto a falta ou excesso podem prejudicar o crescimento vegetal, o cruzamento de dados de sensoriamento remoto com outras camadas de informação, como topografia, pode trazer informações valiosas para o manejo."
+        desc: | # this will include new lines to allow paragraphs 
+          Água é fundamental para qualquer cultura, no entanto a falta ou excesso podem prejudicar o crescimento vegetal, o cruzamento de dados de sensoriamento remoto com 
+          outras camadas de informação, como topografia, pode trazer informações valiosas para o manejo.
         image: assets/img/timeline/water2.jpeg # sugestão do GPT para hiperlink do icone (sem aspas), mas não funciona # ![assets/img/timeline/water2.jpeg](https://wa.me/message/6XYV3TT2NBXEO1)
         alt: 
         # url: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
       - title: "Influência da topografia na água"
         # year: "Mar 2019"
-        desc: "A topografia é um dos fatores básicos para formação do solo pelo controle de água e os processos de desenvolvimento do solo. Sendo assim, morfologia do terrreno é um fator de controle de água que deve ter atenção para um manejo otimizado."
+        desc: | # this will include new lines to allow paragraphs 
+          A topografia é um dos fatores básicos para formação do solo pelo controle de água e os processos de desenvolvimento do solo. 
+          Sendo assim, morfologia do terrreno é um fator de controle de água que deve ter atenção para um manejo otimizado.
         image: assets/img/timeline/topo3.jpg
         alt: foto topografia
       - title: "A textura do solo"
         # year: "2019"
-        desc: "A textura (granulometria) do solo influencia diretamente a fertilidade natural. Solos com maior proporção de partículas finas, como argila, retêm mais água e nutrientes, com maior disponibilidade para as plantas. Por outro lado, solos com textura mais arenosa possuem uma menor capacidade de retenção de água e nutrientes, o que pode afetar negativamente a fertilidade natural."
+        desc: | # this will include new lines to allow paragraphs 
+          A textura (granulometria) do solo influencia diretamente a fertilidade natural. Solos com maior proporção de partículas finas, como argila, 
+          retêm mais água e nutrientes, com maior disponibilidade para as plantas. Por outro lado, solos com textura mais arenosa possuem uma menor capacidade de 
+          retenção de água e nutrientes, o que pode afetar negativamente a fertilidade natural.
         image: assets/img/timeline/texture4.jpeg
         alt: 
       - title: "Fertilidade e matéria orgânica do solo"
         # year: "2019"
-        desc: "A matéria orgânica do solo e o equilíbrio nutricional são essenciais para a saúde das plantas e altas produtividades. A matéria orgânica melhora a estrutura do solo, aumentando sua capacidade de retenção de água e nutrientes. Ela também fornece gradualmente os nutrientes necessários para o desenvolvimento das plantas. Já o equilíbrio nutricional garante que as plantas recebam todos os nutrientes necessários em quantidades adequadas, evitando deficiências ou excessos que possam prejudicar seu crescimento. Ambos os aspectos são fundamentais para obter plantas saudáveis e altos rendimentos de produção."
+        desc: | # this will include new lines to allow paragraphs 
+          A matéria orgânica do solo e o equilíbrio nutricional são essenciais para a saúde das plantas e altas produtividades. 
+          A matéria orgânica melhora a estrutura do solo, aumentando sua capacidade de retenção de água e nutrientes. 
+          Ela também fornece gradualmente os nutrientes necessários para o desenvolvimento das plantas. Já o equilíbrio nutricional 
+          garante que as plantas recebam todos os nutrientes necessários em quantidades adequadas, evitando deficiências ou excessos que 
+          possam prejudicar seu crescimento. Ambos os aspectos são fundamentais para obter plantas saudáveis e altos rendimentos de produção.
         image: assets/img/timeline/om5.jpg
         alt: 
       - title: "Índices de vegetação no monitoramento ambiental"
         # year: "2019"
-        desc: "Os índices de vegetação e o monitoramento ambiental são soluções essenciais para a agricultura. Por meio desses métodos, é possível obter informações precisas sobre o desenvolvimento das plantas, identificar áreas de estresse, avaliar a cobertura vegetal e monitorar as condições ambientais. Essas ferramentas permitem que os agricultores tomem decisões mais informadas, otimizem o uso de recursos como água e fertilizantes, e maximizem a produtividade."
+        desc: | # this will include new lines to allow paragraphs 
+          Os índices de vegetação e o monitoramento ambiental são soluções essenciais para a agricultura. Por meio desses métodos, é possível obter 
+          informações precisas sobre o desenvolvimento das plantas, identificar áreas de estresse, avaliar a cobertura vegetal e monitorar as condições ambientais. 
+          Essas ferramentas permitem que os agricultores tomem decisões mais informadas, otimizem o uso de recursos como água e fertilizantes, e maximizem a produtividade.
         image: assets/img/timeline/indexes6.jpg
         alt: 
       - title: "Vantagens do monitoramento remoto"
         # year: "2009-2011"
-        desc: "O monitoramento ambiental de culturas com emprego de sensoriamento remoto via satélite é uma ferramenta ágil para identificar problemas com falta ou excesso de água, suas causas relacionadas com topografia, pragas e doenças, assim como em certa medida avaliar a características do solo como a granulometria e fertilidade, auxiliando na tomada de decisões rápidas para o manejo agrícola."
+        desc: | # this will include new lines to allow paragraphs 
+          O monitoramento ambiental de culturas com emprego de sensoriamento remoto via satélite é uma ferramenta ágil para identificar problemas com falta ou 
+          excesso de água, suas causas relacionadas com topografia, pragas e doenças, assim como em certa medida avaliar a características do solo como a granulometria e fertilidade, 
+          auxiliando na tomada de decisões rápidas para o manejo agrícola.
         image: assets/img/timeline/s_remoto7.png
         alt:
         # you can enforce the alignment
@@ -134,7 +153,14 @@ en: &DEFAULT_EN
   about:
     title: "Sobre"
     text: "Nosso conceito"
-    body: "Data Situ é uma empresa inovadora em monitoramento ambiental, <br> nasceu da junção entre tecnologia avançada em aprendizado de máquinas e mineração de dados com agricultura de precisão. Viemos da academia com sólido embasamento teórico, mas também com uma vasta experiência em trabalhos práticos. O produto central é uma solução completa de monitoramento via satélite, desenvolvida especificamente para atender às necessidades dos agricultores e investidores agrícolas que enfrentam o desafio de gerir a agricultura tropical de média a grande extensão. Em um mundo onde as mudanças ambientais são constantes, os agricultores se deparam com novos desafios diariamente. Essas mudanças não afetam apenas a viabilidade do cultivo, mas também têm um impacto direto na produtividade e nos rendimentos das lavouras. Nossa missão na Data Situ é fornecer as ferramentas e os insights necessários para que os agricultores possam enfrentar esses desafios de forma eficaz e sustentável."
+    body: | # this will include new lines to allow paragraphs 
+      Data Situ é uma empresa inovadora em monitoramento ambiental, <br> nasceu da junção entre tecnologia avançada em aprendizado de máquinas e mineração de dados 
+      com agricultura de precisão. Viemos da academia com sólido embasamento teórico, mas também com uma vasta experiência em trabalhos práticos. 
+      O produto central é uma solução completa de monitoramento via satélite, desenvolvida especificamente para atender às necessidades dos agricultores e 
+      investidores agrícolas que enfrentam o desafio de gerir a agricultura tropical de média a grande extensão. Em um mundo onde as mudanças ambientais são constantes, 
+      os agricultores se deparam com novos desafios diariamente. Essas mudanças não afetam apenas a viabilidade do cultivo, mas também têm um impacto direto na produtividade e 
+      nos rendimentos das lavouras. Nossa missão na Data Situ é fornecer as ferramentas e os insights necessários para que os agricultores possam enfrentar esses desafios 
+      de forma eficaz e sustentável.
     section: about
 
   clients:
@@ -173,7 +199,7 @@ en: &DEFAULT_EN
             icon: "fab fa-linkedin-in"
       - name: "Yuri A. Gelsleichter"
         role: "Engenheiro Ambiental, coordenador dos projetos em sensoriamento remoto, mineração e automação de dados, mapeamento de solos e engenharia de dados"
-        image: assets/img/team/Yuri_ico.png
+        image: assets/img/team/Yuri_rosto.png
         social:
           - url: https://www.instagram.com/oficina_do_r/
             icon: "fab fa-instagram"
