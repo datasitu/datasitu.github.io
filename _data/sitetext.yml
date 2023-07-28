@@ -13,10 +13,13 @@ en: &DEFAULT_EN
   header:
     # title: "Aumente a sua produtividade com agricultura de precisão <br> <a href="https://pay.hotmart.com/E84647180U">Click aqui para adquirir nosso guia para drones</a>"
     title: "Aumente a sua produtividade com agricultura de precisão"
-    text: "É uma satisfação atender você <br> [![sdfs](https://img.shields.io/badge/Guia_Uso_de_Drones-8A2BE2)](https://pay.hotmart.com/E84647180U)"
+    text: "É uma satisfação atender você <br> [![](https://img.shields.io/badge/Aquira_o_guia:_Uso_de_Drones_na_Agricultura-a0d4fa)](https://pay.hotmart.com/E84647180U)"
     button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
+    # Esse funcionou
+    # [![](https://img.shields.io/badge/Guia_Uso_de_Drones-8A2BE2)](https://pay.hotmart.com/E84647180U)
+    
     # Teste de ...
     # <script> 
     #  window.onload = function() {
