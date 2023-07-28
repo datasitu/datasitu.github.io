@@ -16,7 +16,9 @@ en: &DEFAULT_EN
     button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
-    # <script>
+
+    # kkkkkkkkkkkkkkk
+    # <script> 
     #  window.onload = function() {
     #  var button = document.createElement("a");
     #  button.href = "https://example.com";
