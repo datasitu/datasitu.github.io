@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
   header:
     # title: "Aumente a sua produtividade com agricultura de precisão <br> <a href="https://pay.hotmart.com/E84647180U">Click aqui para adquirir nosso guia para drones</a>"
-    title: "Aumente a sua produtividade com agricultura de precisão <br> [Aquira o guia: Uso de Drones na Agricultura](https://pay.hotmart.com/E84647180U)"
-    text: "É uma satisfação atender você <br> [Aquira o guia: Uso de Drones na Agricultura](https://pay.hotmart.com/E84647180U) <br> [![](https://img.shields.io/badge/Aquira_o_guia:_Uso_de_Drones_na_Agricultura-54bfff)](https://pay.hotmart.com/E84647180U)"
+    title: "Aumente a sua produtividade com agricultura de precisão <br> [Aquira o guia: Uso de Drones na Agricultura](https://pay.hotmart.com/E84647180U) <br> [Click aqui](https://pay.hotmart.com/E84647180U)"
+    text: "É uma satisfação atender você <br> [![](https://img.shields.io/badge/Aquira_o_guia:_Uso_de_Drones_na_Agricultura-54bfff)](https://pay.hotmart.com/E84647180U)"
     button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
