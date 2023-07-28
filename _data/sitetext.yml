@@ -18,14 +18,14 @@ en: &DEFAULT_EN
 
     
     <script>
-window.onload = function() {
-    var button = document.createElement("a");
-    button.href = "https://example.com";
-    button.textContent = "Novo botão";
-    button.classList.add("button-class"); // adicione a classe correta do botão aqui
-    document.querySelector(".header").appendChild(button); // substitua ".header" pelo seletor correto do local onde você deseja adicionar o botão
-}
-</script>
+      window.onload = function() {
+      var button = document.createElement("a");
+      button.href = "https://example.com";
+      button.textContent = "Novo botão";
+      button.classList.add("button-class"); // adicione a classe correta do botão aqui
+      document.querySelector(".header").appendChild(button); 
+    }
+    </script>
     # button2: "Novo botão" 
     # buttonlink2: "https://example.com"
     # [{{ page.button2 }}]( {{ page.buttonlink2 }} )
