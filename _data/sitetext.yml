@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     text: "É uma satisfação atender você"
     button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
-    [![Novo botão](https://img.shields.io/badge/Novo%20botão-Link%20aqui-blue?style=for-the-badge)](https://example.com)
+    [![Novo botão](https://img.shields.io/badge/Novo%20botão-Link%20aqui-blue?style=for-the-badge)](https://example.com) 
 
   services:
     title: "Soluções"
