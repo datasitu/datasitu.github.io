@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     text: "É uma satisfação atender você"
     button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
-    button1: "Fale conosco <br> (ebook)"
+    button1: "Fale conosco (ebook)"
     buttonlink1: "https://wa.me/message/6XYV3TT2NBXEO1"
 
   services:
