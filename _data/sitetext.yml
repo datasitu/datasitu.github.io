@@ -15,6 +15,9 @@ en: &DEFAULT_EN
     text: "É uma satisfação atender você"
     button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
+    button2: "Novo botão" 
+    buttonlink2: "https://example.com"
+    [{{ page.button2 }}]( {{ page.buttonlink2 }} )
     # <a href="https://example.com" class="button-class">Novo Botão 3 </a>
     # "[![Novo botão](https://img.shields.io/badge/Novo%20botão-Link%20aqui-blue?style=for-the-badge)](https://example.com)"
     
