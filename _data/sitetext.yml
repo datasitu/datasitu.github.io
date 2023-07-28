@@ -15,9 +15,20 @@ en: &DEFAULT_EN
     text: "É uma satisfação atender você"
     button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
-    button2: "Novo botão" 
-    buttonlink2: "https://example.com"
-    [{{ page.button2 }}]( {{ page.buttonlink2 }} )
+
+    
+    <script>
+window.onload = function() {
+    var button = document.createElement("a");
+    button.href = "https://example.com";
+    button.textContent = "Novo botão";
+    button.classList.add("button-class"); // adicione a classe correta do botão aqui
+    document.querySelector(".header").appendChild(button); // substitua ".header" pelo seletor correto do local onde você deseja adicionar o botão
+}
+</script>
+    # button2: "Novo botão" 
+    # buttonlink2: "https://example.com"
+    # [{{ page.button2 }}]( {{ page.buttonlink2 }} )
     # <a href="https://example.com" class="button-class">Novo Botão 3 </a> 
     # "[![Novo botão](https://img.shields.io/badge/Novo%20botão-Link%20aqui-blue?style=for-the-badge)](https://example.com)"
     
