@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: "Fale conosco <br> (whatsapp)"
     buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
-    # c
+    # comentario
     # <script> 
     #  window.onload = function() {
     #  var button = document.createElement("a");
@@ -27,12 +27,15 @@ en: &DEFAULT_EN
     # }
     # </script>
    
+    # comentario
     # button2: "Novo botão" 
     # buttonlink2: "https://example.com"
     # [{{ page.button2 }}]( {{ page.buttonlink2 }} )
     
+    # comentario
     # <a href="https://example.com" class="button-class">Novo Botão 3 </a> 
     
+    # comentario
     # "[![Novo botão](https://img.shields.io/badge/Novo%20botão-Link%20aqui-blue?style=for-the-badge)](https://example.com)"
     
   services:
