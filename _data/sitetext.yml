@@ -14,10 +14,10 @@ en: &DEFAULT_EN
     # title: "Aumente a sua produtividade com agricultura de precisão <br> <a href="https://pay.hotmart.com/E84647180U">Click aqui para adquirir nosso guia para drones</a>"
     # title: "Aumente a sua produtividade com agricultura de precisão <br> [Adquira o seu guia: Uso de Drones na Agricultura](https://pay.hotmart.com/E84647180U) <br> [Click aqui](https://pay.hotmart.com/E84647180U)"
     # text: "É uma satisfação atender você <br> [![](https://img.shields.io/badge/Adquira_o_seu_guia:_Uso_de_Drones_na_Agricultura-54bfff)](https://pay.hotmart.com/E84647180U)"
-    text: "É uma satisfação atender você <br>"
-    title: "Aumente a sua produtividade com agricultura de precisão <br>"
-    button: "Fale conosco <br> (whatsapp)"
-    buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
+    title: "Data Situ <br>"
+    text: "Inteligência Artificial a Serviço da Agricultura <br>"
+    # button: "Fale conosco <br> (whatsapp)"
+    # buttonlink: "https://wa.me/message/6XYV3TT2NBXEO1"
 
     # Esse funcionou
     # [![](https://img.shields.io/badge/Guia_Uso_de_Drones-8A2BE2)](https://pay.hotmart.com/E84647180U)
@@ -45,18 +45,17 @@ en: &DEFAULT_EN
     # "[![Novo botão](https://img.shields.io/badge/Novo%20botão-Link%20aqui-blue?style=for-the-badge)](https://example.com)"
     
   services:
-    title: "Soluções"
+    title: "Produtos e Soluções"
     text: "Do jeito que você precisa"
     section: services
     list:
-      - title: "[Monitoramento Remoto por imagens de Satélite](https://wa.me/message/6XYV3TT2NBXEO1)"
+      - title: "[kNDVI | Monitoramento de Problemas em Tempo Real e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
-          Utilização de imagens de satélite para monitorar a saúde das plantas, identificar problemas de pragas e doenças, 
-          e avaliar a produtividade agrícola. Monitoramento de pragas e doenças por meio da análise das imagens de satélite, 
-          permitindo a detecção precoce e o controle eficiente desses problemas. Ambiente de visualização dos mapas de pragas e doenças, 
-          onde os agricultores podem acessar as informações atualizadas sobre a distribuição e intensidade desses problemas em suas lavouras. 
-          Imagens de média e alta resolução espacial para capturar detalhes precisos das plantas e do ambiente agrícola. 
-          Alta periodicidade das imagens de satélite, permitindo um acompanhamento contínuo das condições agrícolas e uma resposta rápida a possíveis problemas.
+          Os íncides de vegetação como NDVI e kNDVI trazer informações rápidas sobre a saúde e problemas que podem impactar na produtividade.
+          - Alerta para áreas com indícios de problemas como falhas, pragas, doenças e daninhas.
+          - Novas imagens a cada passagem de satélite variando de 2 a 8 dias, dependendo da resolução espacial.
+          - Acompanhe o desenvolvimento de cada talhão em tempo real junto a gama de satélites e Priorize áreas que devem ser checadas em campo.
+          - Aumento da produtividade devido ao alto nível de informação.
         icon: fas fa-solid fa-satellite 
         # url: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
         # link: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
