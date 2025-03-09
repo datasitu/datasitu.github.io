@@ -49,7 +49,8 @@ en: &DEFAULT_EN
     text: "Do jeito que você precisa"
     section: services
     list:
-      - title: "[kNDVI | Monitoramento de Problemas em Tempo Real e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
+      ###- title: "[kNDVI | Monitoramento de Problemas em Tempo Real e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
+      - title: "[kNDVI Monitoramento e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
           Os íncides de vegetação como NDVI e kNDVI trazer informações rápidas sobre a saúde e problemas que podem impactar na produtividade.
           - Alerta para áreas com indícios de problemas como falhas, pragas, doenças e daninhas.
