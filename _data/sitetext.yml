@@ -52,11 +52,11 @@ en: &DEFAULT_EN
       ###- title: "[kNDVI | Monitoramento de Problemas em Tempo Real e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
       - title: "[kNDVI - Monitoramento e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
-          Os íncides de vegetação como NDVI e kNDVI trazem informações sobre a saúde e problemas que impactam a produtividade.
-          - Alerta para áreas com indícios de problemas como falhas, pragas, doenças e daninhas.
+          Os índices de vegetação como NDVI e kNDVI trazem informações sobre a saúde e problemas que impactam a produtividade. O kernel-NDVI detecta variações sutis na vegetação sendo mais preciso. 
+          - Alerta para áreas com indícios de problemas como falhas, pragas, doenças e plantas daninhas.
           - Novas imagens a cada passagem de satélite variando de 2 a 8 dias, dependendo da resolução espacial.
           - Acompanhe o desenvolvimento de cada talhão em tempo real junto a gama de satélites e Priorize áreas que devem ser checadas em campo.
-          - Aumento da produtividade devido ao alto nível de informação.
+          - Reduza custos com intervenções preventivas baseadas em dados precisos.
           - O kernel-NDVI é mais sensível e fornece informações mais detalhadas em comparação com o NDVI.
         icon: fas fa-solid fa-satellite 
         # url: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
@@ -64,30 +64,30 @@ en: &DEFAULT_EN
       - title: "[Mapas de fertilidade e AP (Agricultura de Precisão)](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
           - Visualizar os elementos de fertilidade do solo, nutrientes, pH e matéria orgânica, por meio de mapas 
-          - Mapas feitos com Inteligência Artificial e Aprendizado de Máquinas com base em análises laboratoriais. 
-          - Solucione o problema no início e no local necessário em cada talhão. 
+          - Mapas feitos com Inteligência Artificial e Aprendizado de Máquina com base em análises laboratoriais. 
+          - Identifique e solucione o problema no início e no local necessário em cada talhão. 
           - Tome decisões rápidas e faça um manejo baseado em dados. 
-          - Cálculo e mapas de prescrição de adubação de precisão com as quantidades e locais específicos para aplicação.
+          - Obtenha cálculos e mapas de prescrição de adubação de precisão, com quantidades e locais exatos para aplicação.
         icon: fas fa-regular fa-map
       - title: "[Balanço hídrico](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
-          - Evite compactação, reduzinda os prejuízos na produtividade. 
-          - Janela de aplicação de insumos.
-          - Visualizar condições do solo antes do preparo e plantio com mapas e coordenadas GPS.
-          - Tome decisões baseadas em dados. 
+          - Evite compactação do solo, reduzindo prejuízos à produtividade.  
+          - Determine a janela ideal para aplicação de insumos.  
+          - Análise de condições do solo antes do preparo e plantio com mapas e coordenadas GPS.  
+          - Tome decisões fundamentadas em dados confiáveis.
         icon: fas fa-solid fa-cloud-sun
       - title: "[Monitoramento de Incêndio](https://wa.me/message/6XYV3TT2NBXEO1)"
-        desc: | # this will include new lines to allow paragraphs 
-          - Receba alertas.
-          - Evite perdas, mantenha a segurança e salve vidas.
+        desc: | # this will include new lines to allow paragraphs
+          - Receba alertas com base em dados de satélite.  
+          - Previna perdas, garanta a segurança e proteja vidas.
+          - Monitore áreas de risco de incêndio com tecnologia avançada de sensoriamento remoto.  
+          - Identifique focos de calor no início. 
         icon: fas fa-solid fa-fire
       - title: "[Consultoria](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
-          Consultoria em Agricultura de Precisão, suporte técnico e orientação para a adoção de práticas e tecnologias avançadas no manejo agrícola. 
-          - Desenvolvimento de estratégias de manejo sustentável. 
-          - Análise de dados de solos e produtividade.
-          Consultoria em gerenciamento de dados e desenvolvimento de soluções específicas, fornecendo orientação sobre como coletar, armazenar, 
-          organizar e analisar dados agrícolas para obter insights valiosos para o negócio.
+          - Desenvolvimento de estratégias para um manejo sustentável.
+          - Análise de dados de solo e produtividade.  
+          - Consultoria em gerenciamento de dados, oferecendo soluções específicas para coleta, armazenamento, organização e análise de dados agrícolas, gerando insights valiosos para o negócio.
         icon: fas fa-battery-three-quarters  
       #- title: "[Relatórios](https://wa.me/message/6XYV3TT2NBXEO1)"
           #Além disso, antes de aplicar um insumo veja como estão as condições de umidade 
