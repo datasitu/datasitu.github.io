@@ -50,51 +50,62 @@ en: &DEFAULT_EN
     section: services
     list:
       ###- title: "[kNDVI | Monitoramento de Problemas em Tempo Real e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
-      - title: "[kNDVI Monitoramento e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
+      - title: "[kNDVI - Monitoramento e Análises Agronômicas](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
-          Os íncides de vegetação como NDVI e kNDVI trazer informações rápidas sobre a saúde e problemas que podem impactar na produtividade.
+          Os íncides de vegetação como NDVI e kNDVI trazem informações sobre a saúde e problemas que impactam a produtividade.
           - Alerta para áreas com indícios de problemas como falhas, pragas, doenças e daninhas.
           - Novas imagens a cada passagem de satélite variando de 2 a 8 dias, dependendo da resolução espacial.
           - Acompanhe o desenvolvimento de cada talhão em tempo real junto a gama de satélites e Priorize áreas que devem ser checadas em campo.
           - Aumento da produtividade devido ao alto nível de informação.
+          - O kernel-NDVI é mais sensível e fornece informações mais detalhadas em comparação com o NDVI.
         icon: fas fa-solid fa-satellite 
         # url: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
         # link: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
       - title: "[Mapas de fertilidade e AP (Agricultura de Precisão)](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
-          Ambiente para visualizar todos os elementos de fertilidade do solo, como nutrientes, pH e matéria orgânica, por meio de mapas gerados a partir de 
-          análises laboratoriais e técnicas de interpolação. Relatório de interpretação dos resultados das análises de fertilidade do solo, auxiliando os 
-          agricultores na compreensão das necessidades de cada talhão e na tomada de decisões de manejo. Cálculo e mapas de prescrição de adubação de precisão, 
-          indicando as quantidades e locais específicos onde os fertilizantes devem ser aplicados, considerando as variabilidades espaciais das necessidades das plantas.
+          - Visualizar os elementos de fertilidade do solo, nutrientes, pH e matéria orgânica, por meio de mapas 
+          - Mapas feitos com Inteligência Artificial e Aprendizado de Máquinas com base em análises laboratoriais. 
+          - Solucione o problema no início e no local necessário em cada talhão. 
+          - Tome decisões rápidas e faça um manejo baseado em dados. 
+          - Cálculo e mapas de prescrição de adubação de precisão com as quantidades e locais específicos para aplicação.
         icon: fas fa-regular fa-map
+      - title: "[Balanço hídrico](https://wa.me/message/6XYV3TT2NBXEO1)"
+        desc: | # this will include new lines to allow paragraphs 
+          - Evite compactação, reduzinda os prejuízos na produtividade. 
+          - Janela de aplicação de insumos.
+          - Visualizar condições do solo antes do preparo e plantio com mapas e coordenadas GPS.
+          - Tome decisões baseadas em dados. 
+        icon: fas fa-solid fa-cloud-sun
+      - title: "[Monitoramento de Incêndio](https://wa.me/message/6XYV3TT2NBXEO1)"
+        desc: | # this will include new lines to allow paragraphs 
+          - Receba alertas.
+          - Evite perdas, mantenha a segurança e salve vidas.
+        icon: fas fa-solid fa-fire
       - title: "[Consultoria](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
-          Consultoria em Agricultura de Precisão, oferecendo suporte técnico e orientação para a adoção de práticas e tecnologias avançadas no manejo agrícola. 
-          Consultoria em análise agrícola ambiental, auxiliando os agricultores na interpretação dos dados coletados e no desenvolvimento de estratégias de manejo sustentável. 
-          Consultoria em gerenciamento de dados e desenvolvimento de soluções específicas, fornecendo orientação sobre como coletar, armazenar, organizar e analisar 
-          dados agrícolas para obter insights valiosos para o negócio.
-        icon: fas fa-battery-three-quarters 
-      - title: "[Dados Meteorológicos](https://wa.me/message/6XYV3TT2NBXEO1)"
-        desc: | # this will include new lines to allow paragraphs 
-          Modelagem de séries históricas de dados meteorológicos espaciais para análise organização e interpretação de dados, visando o planejamento agrícola. 
-          Utilização de dados climáticos da fazenda, e geração de mapas climáticos, para compreender a variabilidade climática, seu impacto na produção agrícola e 
-          informações para auxiliar na tomada de decisão e estratégias de plantio e monitoramento.
-        icon: fas fa-solid fa-cloud-sun
-      - title: "[Relatórios](https://wa.me/message/6XYV3TT2NBXEO1)"
-        desc: | # this will include new lines to allow paragraphs 
-          Confecção de relatórios técnicos e científicos na área de sensoriamento remoto e agricultura de precisão, consolidando as informações e análises 
-          realizadas para auxiliar os agricultores na tomada de decisões. Confecção de relatórios técnicos e científicos com experimentação agrícola, teste de produtos, 
-          fertilizantes, cultivares e manejos, fornecendo informações detalhadas sobre os resultados obtidos e as melhores práticas agrícolas.
-        icon: far fa-file-alt
-      - title: "[Treinamento](https://wa.me/message/6XYV3TT2NBXEO1)"
-        desc: | # this will include new lines to allow paragraphs 
-          Palestras e treinamentos para garantir o melhor retorno e máxima produtividade na adoção de tecnologias de monitoramento agrícola e agricultura de precisão. 
-          Palestras em gestão de dados e organização da propriedade rural para gerenciamento eficiente das informações agrícolas, como registros de plantio, colheita, 
-          dados climáticos e análises de solo. Treinamento específico em fertilidade e manejo do solo, abordando aspectos como amostragem de solo, 
-          interpretação de análises laboratoriais e estratégias de adubação adequadas às necessidades das culturas. Treinamento em análise e processamento de dados 
-          usando linguagem de programação R, fornecendo habilidades essenciais para a manipulação e interpretação de dados agrícolas, permitindo uma análise mais aprofundada e precisa. 
-          Capacitação em técnicas de sensoriamento remoto e interpretação de imagens de satélite, para aplicar de forma eficaz as informações no monitoramento e manejo de suas lavouras.
-        icon: fas fa-brain
+          Consultoria em Agricultura de Precisão, suporte técnico e orientação para a adoção de práticas e tecnologias avançadas no manejo agrícola. 
+          - Desenvolvimento de estratégias de manejo sustentável. 
+          - Análise de dados de solos e produtividade.
+          Consultoria em gerenciamento de dados e desenvolvimento de soluções específicas, fornecendo orientação sobre como coletar, armazenar, 
+          organizar e analisar dados agrícolas para obter insights valiosos para o negócio.
+        icon: fas fa-battery-three-quarters  
+      #- title: "[Relatórios](https://wa.me/message/6XYV3TT2NBXEO1)"
+          #Além disso, antes de aplicar um insumo veja como estão as condições de umidade 
+        #desc: | # this will include new lines to allow paragraphs 
+          #Confecção de relatórios técnicos e científicos na área de sensoriamento remoto e agricultura de precisão, consolidando as informações e análises 
+          #realizadas para auxiliar os agricultores na tomada de decisões. Confecção de relatórios técnicos e científicos com experimentação agrícola, teste de produtos, 
+          #fertilizantes, cultivares e manejos, fornecendo informações detalhadas sobre os resultados obtidos e as melhores práticas agrícolas.
+        #icon: far fa-file-alt
+      #- title: "[Treinamento](https://wa.me/message/6XYV3TT2NBXEO1)"
+        #desc: | # this will include new lines to allow paragraphs 
+          #Palestras e treinamentos para garantir o melhor retorno e máxima produtividade na adoção de tecnologias de monitoramento agrícola e agricultura de precisão. 
+          #Palestras em gestão de dados e organização da propriedade rural para gerenciamento eficiente das informações agrícolas, como registros de plantio, colheita, 
+          #dados climáticos e análises de solo. Treinamento específico em fertilidade e manejo do solo, abordando aspectos como amostragem de solo, 
+          #interpretação de análises laboratoriais e estratégias de adubação adequadas às necessidades das culturas. Treinamento em análise e processamento de dados 
+          #usando linguagem de programação R, fornecendo habilidades essenciais para a manipulação e interpretação de dados agrícolas, permitindo uma análise mais aprofundada e precisa. 
+          #Capacitação em técnicas de sensoriamento remoto e interpretação de imagens de satélite, para aplicar de forma eficaz as informações no monitoramento e manejo de suas lavouras.
+          #- Uso de drones na agricultura
+        #icon: fas fa-brain
         
         # Depending on which version of Font-Awesome you are using you may need to use fab or fa-brands instead of fa
         # Source: https://www.angularfix.com/2022/03/how-do-i-fix-sticky-social-icon-that-is.html
