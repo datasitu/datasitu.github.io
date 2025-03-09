@@ -172,7 +172,7 @@ en: &DEFAULT_EN
         desc: | # this will include new lines to allow paragraphs 
           Os índices de vegetação e o monitoramento ambiental são soluções essenciais para a agricultura. Por meio desses métodos, é possível obter 
           informações precisas sobre o desenvolvimento das plantas, identificar áreas de estresse, avaliar a cobertura vegetal e monitorar as condições ambientais. 
-          Essas ferramentas permitem que os agricultores tomem decisões mais informadas, otimizem o uso de recursos como água e fertilizantes, e maximizem a produtividade.
+          Essas ferramentas permitem que os gestores e produtores rurais tomem decisões mais informadas, otimizem o uso de recursos como água e fertilizantes, e maximizem a produtividade.
         image: assets/img/timeline/indexes6.jpg
         alt: 
       - title: "Vantagens do monitoramento remoto"
@@ -192,14 +192,13 @@ en: &DEFAULT_EN
     text: "Nosso conceito"
     body: | # this will include new lines to allow paragraphs 
       Data Situ é uma empresa inovadora em monitoramento ambiental, <br> nasceu da junção entre tecnologia avançada em aprendizado de máquinas e mineração de dados 
-      com agricultura de precisão. Viemos da academia com sólido embasamento teórico, mas também com uma vasta experiência em trabalhos práticos. 
+      com agricultura de precisão. O corpo técnico é formado por doutores e agrônomos. 
       
-      O produto central é uma solução completa de monitoramento via satélite, desenvolvida especificamente para atender às necessidades dos agricultores e 
+      O produto central é uma solução em monitoramento via satélite, desenvolvida sob demanda para de cada produtor e 
       investidores agrícolas que enfrentam o desafio de gerir a agricultura tropical de média a grande extensão. 
       
-      Em um mundo onde as mudanças ambientais são constantes, os agricultores se deparam com novos desafios diariamente. Essas mudanças não afetam apenas a 
-      viabilidade do cultivo, mas também têm um impacto direto na produtividade e nos rendimentos das lavouras. Nossa missão na Data Situ é fornecer as ferramentas e 
-      os insights necessários para que os agricultores possam enfrentar esses desafios de forma eficaz e sustentável.
+      Em um mundo onde as mudanças ambientais são constantes, os produtores rurais se deparam com novos desafios diariamente. Nossa missão na Data Situ é fornecer as ferramentas e 
+      os insights necessários para que os gestores e produtores rurais possam enfrentar esses desafios de forma eficaz e sustentável.
     section: about
 
     # <br> faz a quebra de linha em html
