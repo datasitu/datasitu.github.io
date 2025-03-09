@@ -97,10 +97,9 @@ en: &DEFAULT_EN
         #icon: far fa-file-alt
       - title: "[Treinamento](https://wa.me/message/6XYV3TT2NBXEO1)"
         desc: | # this will include new lines to allow paragraphs 
-          Palestras e treinamentos para garantir o melhor retorno e máxima produtividade na adoção de tecnologias de monitoramento agrícola e agricultura de precisão. 
-          Palestras em gestão de dados e organização da propriedade rural para gerenciamento eficiente das informações agrícolas, como registros de plantio, colheita, 
-          dados climáticos e análises de solo. Treinamento específico em fertilidade e manejo do solo, abordando aspectos como amostragem de solo, 
-          interpretação de análises laboratoriais e estratégias de adubação adequadas às necessidades das culturas. Treinamento em análise e processamento de dados. 
+          Palestras e treinamentos para adoção de novas tecnologias para agricultura de precisão. Treinamento em análise e processamento de dados. 
+          Gestão de dados das informações agrícolas em registros de plantio, colheita, dados climáticos e análises de solo. Treinamento específico 
+          em fertilidade e manejo do solo, estratégias de adubação adequadas às necessidades das culturas.  
         icon: fas fa-brain
         
           #usando linguagem de programação R, fornecendo habilidades essenciais para a manipulação e interpretação de dados agrícolas, permitindo uma análise mais aprofundada e precisa. 
