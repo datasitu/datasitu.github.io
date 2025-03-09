@@ -57,7 +57,6 @@ en: &DEFAULT_EN
           - Novas imagens a cada passagem de satélite variando de 2 a 8 dias, dependendo da resolução espacial.
           - Acompanhe o desenvolvimento de cada talhão em tempo real junto a gama de satélites e Priorize áreas que devem ser checadas em campo.
           - Reduza custos com intervenções preventivas baseadas em dados precisos.
-          - O kernel-NDVI é mais sensível e fornece informações mais detalhadas em comparação com o NDVI.
         icon: fas fa-solid fa-satellite 
         # url: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
         # link: https://wa.me/message/6XYV3TT2NBXEO1 # sugestão do GPT para hiperlink do icone, mas não funciona
@@ -96,17 +95,18 @@ en: &DEFAULT_EN
           #realizadas para auxiliar os agricultores na tomada de decisões. Confecção de relatórios técnicos e científicos com experimentação agrícola, teste de produtos, 
           #fertilizantes, cultivares e manejos, fornecendo informações detalhadas sobre os resultados obtidos e as melhores práticas agrícolas.
         #icon: far fa-file-alt
-      #- title: "[Treinamento](https://wa.me/message/6XYV3TT2NBXEO1)"
-        #desc: | # this will include new lines to allow paragraphs 
-          #Palestras e treinamentos para garantir o melhor retorno e máxima produtividade na adoção de tecnologias de monitoramento agrícola e agricultura de precisão. 
-          #Palestras em gestão de dados e organização da propriedade rural para gerenciamento eficiente das informações agrícolas, como registros de plantio, colheita, 
-          #dados climáticos e análises de solo. Treinamento específico em fertilidade e manejo do solo, abordando aspectos como amostragem de solo, 
-          #interpretação de análises laboratoriais e estratégias de adubação adequadas às necessidades das culturas. Treinamento em análise e processamento de dados 
+      - title: "[Treinamento](https://wa.me/message/6XYV3TT2NBXEO1)"
+        desc: | # this will include new lines to allow paragraphs 
+          Palestras e treinamentos para garantir o melhor retorno e máxima produtividade na adoção de tecnologias de monitoramento agrícola e agricultura de precisão. 
+          Palestras em gestão de dados e organização da propriedade rural para gerenciamento eficiente das informações agrícolas, como registros de plantio, colheita, 
+          dados climáticos e análises de solo. Treinamento específico em fertilidade e manejo do solo, abordando aspectos como amostragem de solo, 
+          interpretação de análises laboratoriais e estratégias de adubação adequadas às necessidades das culturas. Treinamento em análise e processamento de dados. 
+        icon: fas fa-brain
+        
           #usando linguagem de programação R, fornecendo habilidades essenciais para a manipulação e interpretação de dados agrícolas, permitindo uma análise mais aprofundada e precisa. 
           #Capacitação em técnicas de sensoriamento remoto e interpretação de imagens de satélite, para aplicar de forma eficaz as informações no monitoramento e manejo de suas lavouras.
           #- Uso de drones na agricultura
-        #icon: fas fa-brain
-        
+          
         # Depending on which version of Font-Awesome you are using you may need to use fab or fa-brands instead of fa
         # Source: https://www.angularfix.com/2022/03/how-do-i-fix-sticky-social-icon-that-is.html
         # from https://fontawesome.com/icons page: "fa-brands fa-whatsapp" adjusted: "fab fa-whatsapp"
